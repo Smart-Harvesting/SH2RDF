@@ -1,0 +1,5382 @@
+{
+ "@context": {
+  "function": "https://schema.org/roleName", 
+  "name": "https://schema.org/name", 
+  "end_date": "https://schema.org/endDate", 
+  "Person": "https://schema.org/Person", 
+  "institution_l1": {
+   "@id": "@type", 
+   "@type": "https://schema.org/Organization"
+  }, 
+  "source": "https://schema.org/citation", 
+  "location": "https://schema.org/location", 
+  "activity": "https://schema.org/description", 
+  "cv_entries": "https://schema.org/hasOccupation", 
+  "start_date": "https://schema.org/startDate", 
+  "Occupation": "https://schema.org/Role"
+ }, 
+ "smart_harvesting": {
+  "Rammstedt,_Beatrice": {
+   "occupations": {
+    "312": {
+     "function": "wissenschaftliche Leiterin der Abteilung Survey Design and Methodology", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften", 
+      "location": "Mannheim", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+     }, 
+     "start_date": "2011", 
+     "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+     "activity": "GESIS \u2013 Leibniz-Institut f\u00fcr Sozialwissenschaften", 
+     "@id": 312, 
+     "@type": "Occupation"
+    }, 
+    "313": {
+     "function": "stellvertretende Pr\u00e4sidentin", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften", 
+      "location": "Mannheim", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+     }, 
+     "start_date": "2015", 
+     "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+     "activity": "GESIS \u2013 Leibniz-Institut f\u00fcr Sozialwissenschaften", 
+     "@id": 313, 
+     "@type": "Occupation"
+    }, 
+    "314": {
+     "function": "Studium Psychologie", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bielefeld", 
+      "location": "Bielefeld", 
+      "name": "Universit\u00e4t Bielefeld"
+     }, 
+     "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+     "activity": "Universit\u00e4t Bielefeld", 
+     "@id": 314, 
+     "@type": "Occupation"
+    }, 
+    "315": {
+     "function": "Promotion", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_G\u00f6ttingen", 
+      "name": "Universit\u00e4t G\u00f6ttingen"
+     }, 
+     "start_date": "2000", 
+     "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+     "activity": "Georg-August Universit\u00e4t G\u00f6ttingen", 
+     "@id": 315, 
+     "@type": "Occupation"
+    }, 
+    "316": {
+     "function": "Habilitation", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "2007", 
+     "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 316, 
+     "@type": "Occupation"
+    }, 
+    "317": {
+     "function": "Professorin f\u00fcr Psychologische Diagnostik, Umfragedesign und Methodik", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "2011", 
+     "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 317, 
+     "@type": "Occupation"
+    }, 
+    "318": {
+     "function": "Studium Psychologie", 
+     "institution_l1": {
+      "@id": "Universit\u00e9_Paris_X_Nanterre", 
+      "location": "Nanterre", 
+      "name": "Universit\u00e9 Paris X Nanterre"
+     }, 
+     "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+     "activity": "Universit\u00e4t  Paris-Nanterre ", 
+     "@id": 318, 
+     "@type": "Occupation"
+    }, 
+    "319": {
+     "function": "Studium Psychologie", 
+     "institution_l1": {
+      "@id": "University_of_California_Berkeley", 
+      "location": "Berkeley", 
+      "name": "University of California Berkeley"
+     }, 
+     "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+     "activity": "Universit\u00e4t UC Berkeley", 
+     "@id": 319, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Rammstedt,_Beatrice", 
+   "@type": "Person", 
+   "name": "Rammstedt, Beatrice"
+  }, 
+  "Kopp,_Johannes": {
+   "occupations": {
+    "230": {
+     "function": "Vertretungen ", 
+     "end_date": "2004", 
+     "institution_l1": {
+      "@id": "_Universit\u00e4t_Konstanz", 
+      "name": " Universit\u00e4t Konstanz"
+     }, 
+     "start_date": "2000", 
+     "source": "https://www.uni-trier.de/index.php?id=50114", 
+     "activity": "Universit\u00e4t Konstanz", 
+     "@id": 230, 
+     "@type": "Occupation"
+    }, 
+    "231": {
+     "function": "Professur f\u00fcr empirische Sozialforschung", 
+     "end_date": "2013", 
+     "institution_l1": {
+      "@id": "Institut_f\u00fcr_Soziologie\r\nFak._f\u00fcr_Human-_und_Sozialwissenschaften", 
+      "location": "Chemnitz", 
+      "name": "Institut f\u00fcr Soziologie\r\nFak. f\u00fcr Human- und Sozialwissenschaften"
+     }, 
+     "start_date": "2004", 
+     "source": "https://www.uni-trier.de/index.php?id=50114", 
+     "activity": " TU Chemnitz", 
+     "@id": 231, 
+     "@type": "Occupation"
+    }, 
+    "232": {
+     "function": "Vertretungen ", 
+     "end_date": "2004", 
+     "institution_l1": {
+      "@id": "Ludwig-Maximilians-Universit\u00e4t_M\u00fcnchen", 
+      "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+     }, 
+     "start_date": "2000", 
+     "source": "https://www.uni-trier.de/index.php?id=50114", 
+     "activity": "LMU M\u00fcnchen", 
+     "@id": 232, 
+     "@type": "Occupation"
+    }, 
+    "233": {
+     "function": "Vertretungen ", 
+     "end_date": "2004", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Koblenz-Landau_Campus_Koblenz", 
+      "name": "Universit\u00e4t Koblenz-Landau Campus Koblenz"
+     }, 
+     "start_date": "2000", 
+     "source": "https://www.uni-trier.de/index.php?id=50114", 
+     "activity": "Universit\u00e4t Koblenz-Landau", 
+     "@id": 233, 
+     "@type": "Occupation"
+    }, 
+    "234": {
+     "function": "wissenschaftlicher Mitarbeiter", 
+     "end_date": "2000", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_K\u00f6ln", 
+      "name": "Universit\u00e4t K\u00f6ln"
+     }, 
+     "start_date": "1988", 
+     "source": "https://www.uni-trier.de/index.php?id=50114", 
+     "activity": "Universit\u00e4t K\u00f6ln", 
+     "@id": 234, 
+     "@type": "Occupation"
+    }, 
+    "235": {
+     "function": "Studium der Soziologie, Sozialpsychologie und Politikwissenschaft", 
+     "end_date": "1988", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1982", 
+     "source": "https://www.uni-trier.de/index.php?id=50114", 
+     "activity": " Universit\u00e4t Mannheim", 
+     "@id": 235, 
+     "@type": "Occupation"
+    }, 
+    "236": {
+     "function": "Promotion ", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1993", 
+     "source": "https://www.uni-trier.de/index.php?id=50114", 
+     "activity": " Universit\u00e4t Mannheim", 
+     "@id": 236, 
+     "@type": "Occupation"
+    }, 
+    "237": {
+     "function": "Habilitation ", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1999", 
+     "source": "https://www.uni-trier.de/index.php?id=50114", 
+     "activity": " Universit\u00e4t Mannheim", 
+     "@id": 237, 
+     "@type": "Occupation"
+    }, 
+    "238": {
+     "function": "wissenschaftlicher Mitarbeiter", 
+     "end_date": "2000", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1988", 
+     "source": "https://www.uni-trier.de/index.php?id=50114", 
+     "activity": " Universit\u00e4t Mannheim", 
+     "@id": 238, 
+     "@type": "Occupation"
+    }, 
+    "239": {
+     "function": "Professur f\u00fcr Soziologie", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Trier", 
+      "name": "Universit\u00e4t Trier"
+     }, 
+     "start_date": "2013", 
+     "source": "https://www.uni-trier.de/index.php?id=50114", 
+     "activity": " Universit\u00e4t Trier", 
+     "@id": 239, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Kopp,_Johannes", 
+   "@type": "Person", 
+   "name": "Kopp, Johannes"
+  }, 
+  "Wolf,_Christoph": {
+   "occupations": {
+    "397": {
+     "function": "Education", 
+     "institution_l1": {
+      "@id": "Forschungsinstitut_f\u00fcr_Soziologie", 
+      "location": "K\u00f6ln", 
+      "name": "Forschungsinstitut f\u00fcr Soziologie"
+     }, 
+     "start_date": "1996", 
+     "source": "ORCID", 
+     "activity": "Universit\u00e4t zu K\u00f6ln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany", 
+     "@id": 397, 
+     "@type": "Occupation"
+    }, 
+    "398": {
+     "function": "Employment", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften", 
+      "location": "Mannheim", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+     }, 
+     "start_date": "2004", 
+     "source": "ORCID", 
+     "activity": "GESIS Leibniz Institut f\u00fcr Sozialwissenschaften eV:\u00a0Mannheim,\u00a0Baden-W\u00fcrttemberg,\u00a0Germany", 
+     "@id": 398, 
+     "@type": "Occupation"
+    }, 
+    "399": {
+     "function": "Abteilungsleiter", 
+     "end_date": "2015", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften_Abt._Dauerbeobachtung_der_Gesellschaft", 
+      "location": "Mannheim", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften Abt. Dauerbeobachtung der Gesellschaft"
+     }, 
+     "start_date": "2004", 
+     "source": "GESIS", 
+     "activity": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften (Mannheim)", 
+     "@id": 399, 
+     "@type": "Occupation"
+    }, 
+    "400": {
+     "function": "Education", 
+     "end_date": "1988", 
+     "institution_l1": {
+      "@id": "Institut_f\u00fcr_Soziologie", 
+      "location": "Hamburg", 
+      "name": "Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "1983", 
+     "source": "ORCID", 
+     "activity": "Universit\u00e4t Hamburg:\u00a0Hamburg,\u00a0Hamburg,\u00a0Germany", 
+     "@id": 400, 
+     "@type": "Occupation"
+    }, 
+    "401": {
+     "function": "Professor f\u00fcr Soziologie", 
+     "institution_l1": {
+      "@id": "Professur_f\u00fcr_Methoden_der_Empirischen_Sozialforschung", 
+      "location": "Mannheim", 
+      "name": "Professur f\u00fcr Methoden der Empirischen Sozialforschung"
+     }, 
+     "start_date": "2009", 
+     "source": "GESIS", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 401, 
+     "@type": "Occupation"
+    }, 
+    "402": {
+     "function": "Education", 
+     "institution_l1": {
+      "@id": "Wirtschafts-_und_Sozialwissenschaftliche_Fakult\u00e4t", 
+      "location": "K\u00f6ln", 
+      "name": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t"
+     }, 
+     "start_date": "2003", 
+     "source": "ORCID", 
+     "activity": "Universit\u00e4t zu K\u00f6ln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany", 
+     "@id": 402, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Wolf,_Christoph", 
+   "@type": "Person", 
+   "name": "Wolf, Christoph"
+  }, 
+  "Depping,_Ralf": {
+   "occupations": {
+    "64": {
+     "function": "Buchhandelslehre", 
+     "end_date": "1983", 
+     "institution_l1": {}, 
+     "start_date": "1981", 
+     "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+     "@id": 64, 
+     "@type": "Occupation"
+    }, 
+    "65": {
+     "function": "Verlagst\u00e4tigkeit", 
+     "end_date": "1990", 
+     "institution_l1": {}, 
+     "start_date": "1989", 
+     "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+     "@id": 65, 
+     "@type": "Occupation"
+    }, 
+    "66": {
+     "function": "Fachreferent Jura", 
+     "end_date": "1994", 
+     "institution_l1": {
+      "@id": "USB_K\u00f6ln", 
+      "name": "USB K\u00f6ln"
+     }, 
+     "start_date": "1993", 
+     "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+     "activity": "USB K\u00f6ln", 
+     "@id": 66, 
+     "@type": "Occupation"
+    }, 
+    "67": {
+     "function": "Fachreferent BWL", 
+     "end_date": "2013", 
+     "institution_l1": {
+      "@id": "USB_K\u00f6ln", 
+      "name": "USB K\u00f6ln"
+     }, 
+     "start_date": "1994", 
+     "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+     "activity": "USB K\u00f6ln", 
+     "@id": 67, 
+     "@type": "Occupation"
+    }, 
+    "68": {
+     "function": " Fachreferent Soziologie", 
+     "end_date": "2015", 
+     "institution_l1": {
+      "@id": "USB_K\u00f6ln", 
+      "name": "USB K\u00f6ln"
+     }, 
+     "start_date": "2013", 
+     "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+     "activity": "USB K\u00f6ln", 
+     "@id": 68, 
+     "@type": "Occupation"
+    }, 
+    "69": {
+     "function": "Dezernent f\u00fcr dezentrale und assoziierte Bibliotheken", 
+     "end_date": "2006", 
+     "institution_l1": {
+      "@id": "USB_K\u00f6ln", 
+      "name": "USB K\u00f6ln"
+     }, 
+     "start_date": "2000", 
+     "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+     "activity": "USB K\u00f6ln", 
+     "@id": 69, 
+     "@type": "Occupation"
+    }, 
+    "70": {
+     "function": "Dezernent f\u00fcr Benutzung", 
+     "institution_l1": {
+      "@id": "USB_K\u00f6ln", 
+      "name": "USB K\u00f6ln"
+     }, 
+     "start_date": "2006", 
+     "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+     "activity": "USB K\u00f6ln", 
+     "@id": 70, 
+     "@type": "Occupation"
+    }, 
+    "71": {
+     "function": "Leiter Stabsstelle Forschung und Entwicklung", 
+     "institution_l1": {
+      "@id": "USB_K\u00f6ln", 
+      "name": "USB K\u00f6ln"
+     }, 
+     "start_date": "2015", 
+     "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+     "activity": "USB K\u00f6ln", 
+     "@id": 71, 
+     "@type": "Occupation"
+    }, 
+    "62": {
+     "function": " Referendariat f\u00fcr den h\u00f6heren Bibliotheksdienst", 
+     "end_date": "1992", 
+     "institution_l1": {
+      "@id": "Fachhochschule_K\u00f6ln", 
+      "location": "K\u00f6ln", 
+      "name": "Fachhochschule K\u00f6ln"
+     }, 
+     "start_date": "1990", 
+     "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+     "activity": "FH K\u00f6ln", 
+     "@id": 62, 
+     "@type": "Occupation"
+    }, 
+    "63": {
+     "function": "Studium Soziologie, Publizistik und Philosophie ", 
+     "end_date": "1988", 
+     "institution_l1": {
+      "@id": "Georg-August-Universit\u00e4t_G\u00f6ttingen", 
+      "location": "G\u00f6ttingen", 
+      "name": "Georg-August-Universit\u00e4t G\u00f6ttingen"
+     }, 
+     "start_date": "1983", 
+     "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+     "activity": "Universit\u00e4t G\u00f6ttingen", 
+     "@id": 63, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Depping,_Ralf", 
+   "@type": "Person", 
+   "name": "Depping, Ralf"
+  }, 
+  "Quandt,_Markus": {
+   "occupations": {
+    "308": {
+     "function": "Employment", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften_Abt._Datenarchiv_f\u00fcr_Sozialwissenschaften", 
+      "location": "K\u00f6ln", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften Abt. Datenarchiv f\u00fcr Sozialwissenschaften"
+     }, 
+     "source": "ORCID", 
+     "activity": "GESIS Leibniz-Institut fur Sozialwissenschaften in Koln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany", 
+     "@id": 308, 
+     "@type": "Occupation"
+    }, 
+    "309": {
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften_Abt._Datenarchiv_f\u00fcr_Sozialwissenschaften", 
+      "location": "K\u00f6ln", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften Abt. Datenarchiv f\u00fcr Sozialwissenschaften"
+     }, 
+     "@type": "Occupation", 
+     "source": "GESIS", 
+     "activity": "GESIS Leibniz-Institut fur Sozialwissenschaften in Koln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany", 
+     "@id": 309, 
+     "start_date": "2004"
+    }, 
+    "310": {
+     "function": "Studium", 
+     "end_date": "1996", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_zu_K\u00f6ln", 
+      "location": "K\u00f6ln", 
+      "name": "Universit\u00e4t zu K\u00f6ln"
+     }, 
+     "start_date": "1989", 
+     "source": "GESIS", 
+     "activity": "Universit\u00e4t zu K\u00f6ln", 
+     "@id": 310, 
+     "@type": "Occupation"
+    }, 
+    "311": {
+     "end_date": "2004", 
+     "institution_l1": {
+      "@id": "Zentralarchiv_f\u00fcr_Empirische_Sozialforschung", 
+      "location": "K\u00f6ln", 
+      "name": "Zentralarchiv f\u00fcr Empirische Sozialforschung"
+     }, 
+     "start_date": "1996", 
+     "source": "GESIS", 
+     "activity": "Zentralarchiv f\u00fcr empirische Sozialforschung der Universit\u00e4t zu K\u00f6ln", 
+     "@id": 311, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Quandt,_Markus", 
+   "@type": "Person", 
+   "name": "Quandt, Markus"
+  }, 
+  "Kreuter,_Frauke": {
+   "occupations": {
+    "256": {
+     "function": "Research Fellow", 
+     "institution_l1": {}, 
+     "start_date": "1994", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "King Monkuts\u2019 Institute of Technology North Bangkok (KMITNB)", 
+     "@id": 256, 
+     "@type": "Occupation"
+    }, 
+    "257": {
+     "function": "Research Fellow", 
+     "institution_l1": {}, 
+     "start_date": "1994", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": " Institute\nfor Technical Education Development (ITED), Bangkok Thailand", 
+     "@id": 257, 
+     "@type": "Occupation"
+    }, 
+    "258": {
+     "function": "Visiting Researcher", 
+     "institution_l1": {}, 
+     "start_date": "2004", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Max Planck Institute for Human Development, Berlin, Germany", 
+     "@id": 258, 
+     "@type": "Occupation"
+    }, 
+    "259": {
+     "function": "Statistical Consultant", 
+     "end_date": "2007", 
+     "institution_l1": {}, 
+     "start_date": "2006", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Millennium Challenge Cooperation, Washington D.C", 
+     "@id": 259, 
+     "@type": "Occupation"
+    }, 
+    "260": {
+     "function": "Statistical Consultant", 
+     "end_date": "2007", 
+     "institution_l1": {}, 
+     "start_date": "2006", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Defense Manpower Data Center,\nWashington D.C.;", 
+     "@id": 260, 
+     "@type": "Occupation"
+    }, 
+    "261": {
+     "function": "Visiting Researcher", 
+     "institution_l1": {}, 
+     "start_date": "2008", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Institute for Employment Research (IAB), Nuernberg, Germany\n", 
+     "@id": 261, 
+     "@type": "Occupation"
+    }, 
+    "262": {
+     "function": "Head of Statistical Methods Research Department", 
+     "institution_l1": {}, 
+     "start_date": "2010", 
+     "source": "linkedin", 
+     "activity": "Institute for Employment Research (IAB), Germany", 
+     "@id": 262, 
+     "@type": "Occupation"
+    }, 
+    "263": {
+     "function": "Promotion", 
+     "end_date": "2001", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Konstanz", 
+      "name": "Universit\u00e4t Konstanz"
+     }, 
+     "start_date": "1997", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Universit\u00e4t Konstanz", 
+     "@id": 263, 
+     "@type": "Occupation"
+    }, 
+    "264": {
+     "function": "Research Assistant (Wissenschaftliche Mitarbeiterin)", 
+     "end_date": "2001", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Konstanz", 
+      "name": "Universit\u00e4t Konstanz"
+     }, 
+     "start_date": "1997", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "University of Konstanz", 
+     "@id": 264, 
+     "@type": "Occupation"
+    }, 
+    "265": {
+     "function": "\u2018Wissenschaftliche Assistentin\u2019 (C1)", 
+     "end_date": "2004", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Konstanz", 
+      "name": "Universit\u00e4t Konstanz"
+     }, 
+     "start_date": "2001", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "University of Konstanz", 
+     "@id": 265, 
+     "@type": "Occupation"
+    }, 
+    "266": {
+     "function": "Doctor of Philosophy (Ph.D.)", 
+     "end_date": "2001", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Konstanz", 
+      "name": "Universit\u00e4t Konstanz"
+     }, 
+     "start_date": "1997", 
+     "source": "linkedin", 
+     "activity": "Universit\u00e4t Konstanz", 
+     "@id": 266, 
+     "@type": "Occupation"
+    }, 
+    "267": {
+     "function": "Professur ", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "source": "Wikipedia", 
+     "activity": " Universit\u00e4t Mannheim ", 
+     "@id": 267, 
+     "@type": "Occupation"
+    }, 
+    "268": {
+     "function": "Studium", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1996", 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 268, 
+     "@type": "Occupation"
+    }, 
+    "269": {
+     "function": "Studium", 
+     "end_date": "1996", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1990", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 269, 
+     "@type": "Occupation"
+    }, 
+    "270": {
+     "function": "Undergraduate Research Assistant ", 
+     "end_date": "1995", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1993", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "University of Mannheim", 
+     "@id": 270, 
+     "@type": "Occupation"
+    }, 
+    "271": {
+     "function": "Professor", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "2014", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "University of Mannheim, Germany", 
+     "@id": 271, 
+     "@type": "Occupation"
+    }, 
+    "272": {
+     "function": "Professor", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "2014", 
+     "source": "linkedin", 
+     "activity": "University of Mannheim", 
+     "@id": 272, 
+     "@type": "Occupation"
+    }, 
+    "273": {
+     "function": "Postdoc-Forschung", 
+     "institution_l1": {
+      "@id": "University_of_California_Los_Angeles", 
+      "name": "University of California Los Angeles"
+     }, 
+     "source": "Wikipedia", 
+     "activity": " University of California, Los Angeles", 
+     "@id": 273, 
+     "@type": "Occupation"
+    }, 
+    "274": {
+     "function": "Associate Professor   ", 
+     "end_date": "2014", 
+     "institution_l1": {
+      "@id": "University_of_California_Los_Angeles", 
+      "name": "University of California Los Angeles"
+     }, 
+     "start_date": "2010", 
+     "source": "Wikipedia", 
+     "activity": " University of California, Los Angeles", 
+     "@id": 274, 
+     "@type": "Occupation"
+    }, 
+    "275": {
+     "function": "Ordentlicher Professor", 
+     "institution_l1": {
+      "@id": "University_of_California_Los_Angeles", 
+      "name": "University of California Los Angeles"
+     }, 
+     "start_date": "2014", 
+     "source": "Wikipedia", 
+     "activity": "University of California, Los Angeles", 
+     "@id": 275, 
+     "@type": "Occupation"
+    }, 
+    "276": {
+     "function": "DAAD Postdoc Research Fellow", 
+     "end_date": "2002", 
+     "institution_l1": {
+      "@id": "University_of_California_Los_Angeles", 
+      "name": "University of California Los Angeles"
+     }, 
+     "start_date": "2001", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "University of California, Los Angeles", 
+     "@id": 276, 
+     "@type": "Occupation"
+    }, 
+    "277": {
+     "function": "Adjunct Assistant Professor", 
+     "end_date": "2004", 
+     "institution_l1": {
+      "@id": "University_of_California_Los_Angeles", 
+      "name": "University of California Los Angeles"
+     }, 
+     "start_date": "2002", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "University of California, Los Angeles", 
+     "@id": 277, 
+     "@type": "Occupation"
+    }, 
+    "278": {
+     "function": "Adj. Ass. Professor", 
+     "end_date": "2004", 
+     "institution_l1": {
+      "@id": "University_of_California_Los_Angeles", 
+      "name": "University of California Los Angeles"
+     }, 
+     "start_date": "2001", 
+     "source": "linkedin", 
+     "activity": "UCLA", 
+     "@id": 278, 
+     "@type": "Occupation"
+    }, 
+    "279": {
+     "function": "Ass. Professor", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "University_of_Maryland", 
+      "name": "University of Maryland"
+     }, 
+     "start_date": "2004", 
+     "source": "linkedin", 
+     "activity": "University of Maryland", 
+     "@id": 279, 
+     "@type": "Occupation"
+    }, 
+    "280": {
+     "function": "Faculty Associate", 
+     "institution_l1": {
+      "@id": "University_of_Maryland,_College\nPark", 
+      "name": "University of Maryland, College\nPark"
+     }, 
+     "start_date": "2005", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "University of Maryland, College Park", 
+     "@id": 280, 
+     "@type": "Occupation"
+    }, 
+    "281": {
+     "function": "Assistant Professor", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "University_of_Maryland,_College\r\nPark", 
+      "name": "University of Maryland, College\r\nPark"
+     }, 
+     "start_date": "2004", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "University of Maryland, College\nPark", 
+     "@id": 281, 
+     "@type": "Occupation"
+    }, 
+    "282": {
+     "function": "Associate Professor ", 
+     "end_date": "2014", 
+     "institution_l1": {
+      "@id": "University_of_Maryland,_College\r\nPark", 
+      "name": "University of Maryland, College\r\nPark"
+     }, 
+     "start_date": "2010", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "University of Maryland, College Park", 
+     "@id": 282, 
+     "@type": "Occupation"
+    }, 
+    "283": {
+     "function": "Professor", 
+     "institution_l1": {
+      "@id": "University_of_Maryland,_College\r\nPark", 
+      "name": "University of Maryland, College\r\nPark"
+     }, 
+     "start_date": "2014", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "University of\r\nMaryland, College Park", 
+     "@id": 283, 
+     "@type": "Occupation"
+    }, 
+    "284": {
+     "function": "Assoc. Prof. at the Joint Program in Survey Methodology", 
+     "end_date": "2014", 
+     "institution_l1": {
+      "@id": "University_of_Maryland,_College\r\nPark", 
+      "name": "University of Maryland, College\r\nPark"
+     }, 
+     "start_date": "2010", 
+     "source": "linkedin", 
+     "activity": "University of Maryland", 
+     "@id": 284, 
+     "@type": "Occupation"
+    }, 
+    "285": {
+     "function": "Professor at the Joint Program in Survey Methodology", 
+     "institution_l1": {
+      "@id": "University_of_Maryland,_College\r\nPark", 
+      "name": "University of Maryland, College\r\nPark"
+     }, 
+     "start_date": "2014", 
+     "source": "linkedin", 
+     "activity": "University of Maryland", 
+     "@id": 285, 
+     "@type": "Occupation"
+    }, 
+    "286": {
+     "function": "German Science Foundation (DFG) Fellow", 
+     "institution_l1": {
+      "@id": "University_of_Michigan", 
+      "location": "Ann Arbor", 
+      "name": "University of Michigan"
+     }, 
+     "start_date": "1997", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": " University of Michigan", 
+     "@id": 286, 
+     "@type": "Occupation"
+    }, 
+    "287": {
+     "function": "Adjunct Research Assistant Professor", 
+     "institution_l1": {
+      "@id": "University_of_Michigan", 
+      "location": "Ann Arbor", 
+      "name": "University of Michigan"
+     }, 
+     "start_date": "2013", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": " University of Michigan, Ann Arbor", 
+     "@id": 287, 
+     "@type": "Occupation"
+    }, 
+    "288": {
+     "function": "Adjunct Research Assistant Professor", 
+     "end_date": "2013", 
+     "institution_l1": {
+      "@id": "University_of_Michigan,_Ann_Arbor", 
+      "name": "University of Michigan, Ann Arbor"
+     }, 
+     "start_date": "2005", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "University of Michigan, Ann Arbor", 
+     "@id": 288, 
+     "@type": "Occupation"
+    }, 
+    "289": {
+     "function": "Visiting Researcher", 
+     "institution_l1": {
+      "@id": "University_of_Michigan,_Ann_Arbor", 
+      "name": "University of Michigan, Ann Arbor"
+     }, 
+     "start_date": "2003", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "University of\r\nMichigan, Ann Arbor", 
+     "@id": 289, 
+     "@type": "Occupation"
+    }, 
+    "248": {
+     "function": "Visiting Researcher", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften", 
+      "location": "Mannheim", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+     }, 
+     "start_date": "2009", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "GESIS, Mannheim, Germany", 
+     "@id": 248, 
+     "@type": "Occupation"
+    }, 
+    "249": {
+     "function": "Universit\u00e4tsprofessorin f\u00fcr Statistik", 
+     "end_date": "2014", 
+     "institution_l1": {
+      "@id": "Ludwig-Maximilians-Universit\u00e4t_M\u00fcnchen", 
+      "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+     }, 
+     "start_date": "2010", 
+     "source": "Wikipedia", 
+     "activity": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "@id": 249, 
+     "@type": "Occupation"
+    }, 
+    "250": {
+     "function": "University Professor", 
+     "end_date": "2014", 
+     "institution_l1": {
+      "@id": "Ludwig-Maximilians-Universit\u00e4t_M\u00fcnchen", 
+      "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+     }, 
+     "start_date": "2010", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": " LudwigMaximilians-Universitaet\r\nMuenchen", 
+     "@id": 250, 
+     "@type": "Occupation"
+    }, 
+    "251": {
+     "function": "Professor in Statistics", 
+     "end_date": "2014", 
+     "institution_l1": {
+      "@id": "Ludwig-Maximilians-Universit\u00e4t_M\u00fcnchen", 
+      "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+     }, 
+     "start_date": "2010", 
+     "source": "linkedin", 
+     "activity": "LMU - Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "@id": 251, 
+     "@type": "Occupation"
+    }, 
+    "252": {
+     "function": "Research Assistant (Wissenschaftliche Mitarbeiterin)", 
+     "end_date": "1997", 
+     "institution_l1": {
+      "@id": "Mannheim_Center_for_European_Social_Research_(MZES)", 
+      "name": "Mannheim Center for European Social Research (MZES)"
+     }, 
+     "start_date": "1996", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Mannheim Center for European Social Research (MZES)", 
+     "@id": 252, 
+     "@type": "Occupation"
+    }, 
+    "253": {
+     "function": "Undergraduate Research Assistant", 
+     "end_date": "1993", 
+     "institution_l1": {
+      "@id": "Mannheimer_Zentrum_f\u00fcr_Europ\u00e4ische_Sozialforschung_(MZES)", 
+      "name": "Mannheimer Zentrum f\u00fcr Europ\u00e4ische Sozialforschung (MZES)"
+     }, 
+     "start_date": "1991", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Mannheim Center for European Social Research (MZES)", 
+     "@id": 253, 
+     "@type": "Occupation"
+    }, 
+    "254": {
+     "function": "Leiterin der Abteilung f\u00fcr Statistische Methoden", 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Institut f\u00fcr Arbeitsmarktforschung (IAB)", 
+     "@id": 254, 
+     "@type": "Occupation"
+    }, 
+    "255": {
+     "function": "Leiterin der Abteilung f\u00fcr statistische Methoden", 
+     "institution_l1": {}, 
+     "start_date": "2014", 
+     "source": "Wikipedia", 
+     "activity": "Institut f\u00fcr Arbeitsmarktforschung (IAB)", 
+     "@id": 255, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Kreuter,_Frauke", 
+   "@type": "Person", 
+   "name": "Kreuter, Frauke"
+  }, 
+  "Rosar,_Ulrich": {
+   "occupations": {
+    "345": {
+     "function": "Mitglied des Wissenschaftlichen Beirates ", 
+     "institution_l1": {
+      "@id": "\"forsa\"_-_Gesellschaft_f\u00fcr_Sozialforschung_und_statistische_Analysen_mbH", 
+      "location": "Berlin", 
+      "name": "\"forsa\" - Gesellschaft f\u00fcr Sozialforschung und statistische Analysen mbH"
+     }, 
+     "start_date": "2012", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "forsa \u2013 Gesellschaft f\u00fcr Sozialforschung und statistische Analyse mbH ", 
+     "@id": 345, 
+     "@type": "Occupation"
+    }, 
+    "346": {
+     "function": "Mitglied des Pr\u00e4sidiums ", 
+     "institution_l1": {
+      "@id": "Deutsche_Gesellschaft_f\u00fcr_Wahlforschung_e.V._-DGfW-", 
+      "location": "Mannheim", 
+      "name": "Deutsche Gesellschaft f\u00fcr Wahlforschung e.V. -DGfW-"
+     }, 
+     "start_date": "2015", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Deutsche Gesellschaft f\u00fcr Wahlforschung (DGfW) ", 
+     "@id": 346, 
+     "@type": "Occupation"
+    }, 
+    "347": {
+     "function": "Akademische Pr\u00fcfungen", 
+     "institution_l1": {
+      "@id": "Fak._Sozial-_und_Wirtschaftswissenschaften_\u2013_SoWi\r\nOtto-Friedrich-Universit\u00e4t_Bamberg", 
+      "location": "Bamberg", 
+      "name": "Fak. Sozial- und Wirtschaftswissenschaften \u2013 SoWi\r\nOtto-Friedrich-Universit\u00e4t Bamberg"
+     }, 
+     "start_date": "2001", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Otto-Friedrich-Universit\u00e4t Bamberg  ", 
+     "@id": 347, 
+     "@type": "Occupation"
+    }, 
+    "348": {
+     "function": "Mitglied des ALLBUS-Beirats ", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften", 
+      "location": "K\u00f6ln", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+     }, 
+     "start_date": "2015", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "GESIS ", 
+     "@id": 348, 
+     "@type": "Occupation"
+    }, 
+    "349": {
+     "function": "Universit\u00e4tsprofessor f\u00fcr Soziologie (W3) ", 
+     "institution_l1": {
+      "@id": "Institut_f\u00fcr_Sozialwissenschaften\r\nPhilosophische_Fakult\u00e4t", 
+      "location": "D\u00fcsseldorf", 
+      "name": "Institut f\u00fcr Sozialwissenschaften\r\nPhilosophische Fakult\u00e4t"
+     }, 
+     "start_date": "2010", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf", 
+     "@id": 349, 
+     "@type": "Occupation"
+    }, 
+    "350": {
+     "function": "Mitglied und Vorsitz diverser Berufungskommissionen ", 
+     "institution_l1": {}, 
+     "start_date": "2007", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Institutionelle T\u00e4tigkeiten", 
+     "@id": 350, 
+     "@type": "Occupation"
+    }, 
+    "351": {
+     "function": "Sprecher des DVPW-Arbeitskreises Wahlen und politische Einstellungen ", 
+     "institution_l1": {}, 
+     "start_date": "2011", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Institutionelle T\u00e4tigkeiten", 
+     "@id": 351, 
+     "@type": "Occupation"
+    }, 
+    "352": {
+     "function": "Akademische Pr\u00fcfungen", 
+     "institution_l1": {
+      "@id": "Philosophische_Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t_D\u00fcsseldorf", 
+      "location": "D\u00fcsseldorf", 
+      "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+     }, 
+     "start_date": "1995", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf", 
+     "@id": 352, 
+     "@type": "Occupation"
+    }, 
+    "353": {
+     "function": "Studium", 
+     "end_date": "1995", 
+     "institution_l1": {
+      "@id": "Philosophische_Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t_D\u00fcsseldorf", 
+      "location": "D\u00fcsseldorf", 
+      "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+     }, 
+     "start_date": "1990", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf", 
+     "@id": 353, 
+     "@type": "Occupation"
+    }, 
+    "354": {
+     "function": "Prodekan", 
+     "end_date": "2015", 
+     "institution_l1": {
+      "@id": "Philosophische_Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t_D\u00fcsseldorf", 
+      "location": "D\u00fcsseldorf", 
+      "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+     }, 
+     "start_date": "2014", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf", 
+     "@id": 354, 
+     "@type": "Occupation"
+    }, 
+    "355": {
+     "function": "Dekan ", 
+     "institution_l1": {
+      "@id": "Philosophische_Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t_D\u00fcsseldorf", 
+      "location": "D\u00fcsseldorf", 
+      "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+     }, 
+     "start_date": "2015", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf", 
+     "@id": 355, 
+     "@type": "Occupation"
+    }, 
+    "356": {
+     "function": "Mitglied des Habilitationsausschusses ", 
+     "end_date": "2014", 
+     "institution_l1": {
+      "@id": "Philosophische_Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t_D\u00fcsseldorf", 
+      "location": "D\u00fcsseldorf", 
+      "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+     }, 
+     "start_date": "2010", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf ", 
+     "@id": 356, 
+     "@type": "Occupation"
+    }, 
+    "357": {
+     "function": "Vorsitz des Promotionsausschusses ", 
+     "end_date": "2015", 
+     "institution_l1": {
+      "@id": "Philosophische_Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t_D\u00fcsseldorf", 
+      "location": "D\u00fcsseldorf", 
+      "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+     }, 
+     "start_date": "2014", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf ", 
+     "@id": 357, 
+     "@type": "Occupation"
+    }, 
+    "358": {
+     "function": "Vorsitz des Habilitationsausschusses ", 
+     "institution_l1": {
+      "@id": "Philosophische_Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t_D\u00fcsseldorf", 
+      "location": "D\u00fcsseldorf", 
+      "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+     }, 
+     "start_date": "2015", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf ", 
+     "@id": 358, 
+     "@type": "Occupation"
+    }, 
+    "359": {
+     "function": "Prodekan ", 
+     "end_date": "2015", 
+     "institution_l1": {
+      "@id": "Philosophische_Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t_D\u00fcsseldorf", 
+      "location": "D\u00fcsseldorf", 
+      "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+     }, 
+     "start_date": "2014", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf ", 
+     "@id": 359, 
+     "@type": "Occupation"
+    }, 
+    "360": {
+     "function": "Dekan ", 
+     "institution_l1": {
+      "@id": "Philosophische_Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t_D\u00fcsseldorf", 
+      "location": "D\u00fcsseldorf", 
+      "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+     }, 
+     "start_date": "2015", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf ", 
+     "@id": 360, 
+     "@type": "Occupation"
+    }, 
+    "361": {
+     "function": "Akademische Pr\u00fcfungen", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_zu_K\u00f6ln", 
+      "name": "Universit\u00e4t zu K\u00f6ln"
+     }, 
+     "start_date": "2009", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Universit\u00e4t zu K\u00f6ln", 
+     "@id": 361, 
+     "@type": "Occupation"
+    }, 
+    "362": {
+     "function": "\u00a0Akademischer Leiter des Master-Studiengangs Soziologie und empirische Sozialforschung", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_zu_K\u00f6ln", 
+      "name": "Universit\u00e4t zu K\u00f6ln"
+     }, 
+     "start_date": "2009", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Universit\u00e4t zu K\u00f6ln ", 
+     "@id": 362, 
+     "@type": "Occupation"
+    }, 
+    "363": {
+     "function": "Wissenschaftlicher Mitarbeiter bzw. Wissenschaftlicher Assistent ", 
+     "end_date": "2007", 
+     "institution_l1": {
+      "@id": "Universit\u00e4ts-_und_Stadtbibliothek_K\u00f6ln_\u2013_USB", 
+      "name": "Universit\u00e4ts- und Stadtbibliothek K\u00f6ln \u2013 USB"
+     }, 
+     "start_date": "1995", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Universit\u00e4t zu K\u00f6ln", 
+     "@id": 363, 
+     "@type": "Occupation"
+    }, 
+    "364": {
+     "function": "Gesch\u00e4ftsf\u00fchrer ", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "Universit\u00e4ts-_und_Stadtbibliothek_K\u00f6ln_\u2013_USB", 
+      "name": "Universit\u00e4ts- und Stadtbibliothek K\u00f6ln \u2013 USB"
+     }, 
+     "start_date": "2007", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "\u00a0Universit\u00e4t zu K\u00f6ln ", 
+     "@id": 364, 
+     "@type": "Occupation"
+    }, 
+    "365": {
+     "function": "Vertretung des Lehrstuhls Soziologie III (W3)", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "Universit\u00e4ts-_und_Stadtbibliothek_K\u00f6ln_\u2013_USB", 
+      "name": "Universit\u00e4ts- und Stadtbibliothek K\u00f6ln \u2013 USB"
+     }, 
+     "start_date": "2009", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Universit\u00e4t zu K\u00f6ln ", 
+     "@id": 365, 
+     "@type": "Occupation"
+    }, 
+    "366": {
+     "function": "Vertretung des Lehrstuhls Soziologie II (W3)", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "Universit\u00e4ts-_und_Stadtbibliothek_K\u00f6ln_\u2013_USB", 
+      "name": "Universit\u00e4ts- und Stadtbibliothek K\u00f6ln \u2013 USB"
+     }, 
+     "start_date": "2010", 
+     "source": "Universit\u00e4t D\u00fcsseldorf", 
+     "activity": "Universit\u00e4t zu K\u00f6ln ", 
+     "@id": 366, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Rosar,_Ulrich", 
+   "@type": "Person", 
+   "name": "Rosar, Ulrich"
+  }, 
+  "Br\u00fcderl,_Josef": {
+   "occupations": {
+    "17": {
+     "function": "Wissenschaftlicher Assistent Institut f\u00fcr Soziologie Universit\u00e4t Bern", 
+     "end_date": "1992", 
+     "institution_l1": {
+      "@id": "Department_Sozialwissenschaften_Institut_f\u00fcr_Soziologie", 
+      "location": "Bern", 
+      "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "1991", 
+     "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 17, 
+     "@type": "Occupation"
+    }, 
+    "18": {
+     "function": "Habilitation", 
+     "institution_l1": {
+      "@id": "Department_Sozialwissenschaften_Institut_f\u00fcr_Soziologie", 
+      "location": "Bern", 
+      "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "1997", 
+     "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 18, 
+     "@type": "Occupation"
+    }, 
+    "19": {
+     "function": "Wissenschaftlicher Assistent Institut f\u00fcr Soziologie LMU M\u00fcnchen", 
+     "end_date": "1998", 
+     "institution_l1": {
+      "@id": "Institut_f\u00fcr_Soziologie", 
+      "location": "M\u00fcnchen", 
+      "name": "Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "1992", 
+     "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "activity": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "@id": 19, 
+     "@type": "Occupation"
+    }, 
+    "20": {
+     "function": "Professor f\u00fcr Soziologie ", 
+     "institution_l1": {
+      "@id": "Institut_f\u00fcr_Soziologie", 
+      "location": "M\u00fcnchen", 
+      "name": "Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "2011", 
+     "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "activity": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "@id": 20, 
+     "@type": "Occupation"
+    }, 
+    "21": {
+     "function": "Studium", 
+     "end_date": "1986", 
+     "institution_l1": {
+      "@id": "Ludwig-Maximilians-Universit\u00e4t_M\u00fcnchen", 
+      "location": "M\u00fcnchen", 
+      "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+     }, 
+     "start_date": "1981", 
+     "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "activity": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "@id": 21, 
+     "@type": "Occupation"
+    }, 
+    "22": {
+     "function": "Studium", 
+     "end_date": "1988", 
+     "institution_l1": {
+      "@id": "Ludwig-Maximilians-Universit\u00e4t_M\u00fcnchen", 
+      "location": "M\u00fcnchen", 
+      "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+     }, 
+     "start_date": "1983", 
+     "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "activity": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "@id": 22, 
+     "@type": "Occupation"
+    }, 
+    "23": {
+     "function": "Studium", 
+     "institution_l1": {
+      "@id": "Ludwig-Maximilians-Universit\u00e4t_M\u00fcnchen", 
+      "location": "M\u00fcnchen", 
+      "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+     }, 
+     "start_date": "1990", 
+     "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "activity": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "@id": 23, 
+     "@type": "Occupation"
+    }, 
+    "24": {
+     "function": "Professor f\u00fcr Statistik und Methoden der Sozialforschung", 
+     "end_date": "2011", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1998", 
+     "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 24, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Br\u00fcderl,_Josef", 
+   "@type": "Person", 
+   "name": "Br\u00fcderl, Josef"
+  }, 
+  "Hank,_Karsten": {
+   "occupations": {
+    "105": {
+     "function": "Doctoral Student", 
+     "end_date": "2002", 
+     "institution_l1": {
+      "@id": "Max-Planck-Institut_f\u00fcr_demografische_Forschung", 
+      "location": "Rostock", 
+      "name": "Max-Planck-Institut f\u00fcr demografische Forschung"
+     }, 
+     "start_date": "1999", 
+     "source": "ISS Uni K\u00f6ln", 
+     "activity": "Max Planck Institute for Demographic Research, Rostock", 
+     "@id": 105, 
+     "@type": "Occupation"
+    }, 
+    "106": {
+     "function": "Research Scientist", 
+     "end_date": "2003", 
+     "institution_l1": {
+      "@id": "Max-Planck-Institut_f\u00fcr_demografische_Forschung", 
+      "location": "Rostock", 
+      "name": "Max-Planck-Institut f\u00fcr demografische Forschung"
+     }, 
+     "start_date": "2002", 
+     "source": "ISS Uni K\u00f6ln", 
+     "activity": "Max Planck Institute for Demographic Research, Rostock", 
+     "@id": 106, 
+     "@type": "Occupation"
+    }, 
+    "107": {
+     "function": "Studium", 
+     "institution_l1": {
+      "@id": "Ruhr-Universit\u00e4t_Bochum", 
+      "location": "Bochum", 
+      "name": "Ruhr-Universit\u00e4t Bochum"
+     }, 
+     "start_date": "1998", 
+     "source": "ISS Uni K\u00f6ln", 
+     "activity": "Ruhr-Universit\u00e4t Bochum", 
+     "@id": 107, 
+     "@type": "Occupation"
+    }, 
+    "108": {
+     "function": "Head of the Research Unit \u2018Survey of Health, Ageing and Retirement in Europe'", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "2003", 
+     "source": "ISS Uni K\u00f6ln", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 108, 
+     "@type": "Occupation"
+    }, 
+    "109": {
+     "function": "Full Professor (W3) of Sociology at the Institute of Sociology & Social Psychology", 
+     "institution_l1": {
+      "@id": "Wirtschafts-_und_Sozialwissenschaftliche_Fakult\u00e4t", 
+      "location": "K\u00f6ln", 
+      "name": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t"
+     }, 
+     "start_date": "2010", 
+     "source": "ISS Uni K\u00f6ln", 
+     "activity": "Universit\u00e4t zu K\u00f6ln", 
+     "@id": 109, 
+     "@type": "Occupation"
+    }, 
+    "110": {
+     "function": "Research Assistant", 
+     "end_date": "1998", 
+     "institution_l1": {
+      "@id": "Zentrum_f\u00fcr_interdisziplin\u00e4re_Regionalforschung_-ZEFIR-", 
+      "location": "Bochum", 
+      "name": "Zentrum f\u00fcr interdisziplin\u00e4re Regionalforschung -ZEFIR-"
+     }, 
+     "start_date": "1998", 
+     "source": "ISS Uni K\u00f6ln", 
+     "activity": "Ruhr-Universit\u00e4t Bochum,", 
+     "@id": 110, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Hank,_Karsten", 
+   "@type": "Person", 
+   "name": "Hank, Karsten"
+  }, 
+  "Kohler,_Ulrich": {
+   "occupations": {
+    "224": {
+     "function": "Studium ", 
+     "end_date": "1992", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Konstanz", 
+      "location": "Konstanz", 
+      "name": "Universit\u00e4t Konstanz"
+     }, 
+     "start_date": "1989", 
+     "source": "WZB", 
+     "activity": "Universit\u00e4t Konstanz ", 
+     "@id": 224, 
+     "@type": "Occupation"
+    }, 
+    "225": {
+     "function": "Studium", 
+     "end_date": "1996", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1992", 
+     "source": "WZB", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 225, 
+     "@type": "Occupation"
+    }, 
+    "226": {
+     "function": "Studium", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1996", 
+     "source": "WZB", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 226, 
+     "@type": "Occupation"
+    }, 
+    "227": {
+     "function": "Wissenschaftlicher Mitarbeiter", 
+     "end_date": "2012", 
+     "institution_l1": {
+      "@id": "Wissenschaftszentrum_Berlin_f\u00fcr_Sozialforschung_gGmbH_Schwerpunkt_Bildung,_Arbeit_und_Lebenschancen_Abt._Ungleichheit_und_soziale_Integration", 
+      "location": "Berlin", 
+      "name": "Wissenschaftszentrum Berlin f\u00fcr Sozialforschung gGmbH Schwerpunkt Bildung, Arbeit und Lebenschancen Abt. Ungleichheit und soziale Integration"
+     }, 
+     "start_date": "2003", 
+     "source": "WZB", 
+     "activity": "WZB", 
+     "@id": 227, 
+     "@type": "Occupation"
+    }, 
+    "228": {
+     "function": "Projektleitung \"Die wirtschaftlichen Folgen zentraler Lebensrisiken in Deutschland und den USA und ihre Entwicklung seit den achtziger Jahren\"", 
+     "end_date": "2012", 
+     "institution_l1": {
+      "@id": "Wissenschaftszentrum_Berlin_f\u00fcr_Sozialforschung_gGmbH_Schwerpunkt_Bildung,_Arbeit_und_Lebenschancen_Abt._Ungleichheit_und_soziale_Integration", 
+      "location": "Berlin", 
+      "name": "Wissenschaftszentrum Berlin f\u00fcr Sozialforschung gGmbH Schwerpunkt Bildung, Arbeit und Lebenschancen Abt. Ungleichheit und soziale Integration"
+     }, 
+     "start_date": "2009", 
+     "source": "WZB", 
+     "activity": "WZB", 
+     "@id": 228, 
+     "@type": "Occupation"
+    }, 
+    "229": {
+     "function": "Gesch\u00e4ftsf\u00fchrender wissenschaftlicher Mitarbeiter", 
+     "end_date": "2012", 
+     "institution_l1": {
+      "@id": "Wissenschaftszentrum_Berlin_f\u00fcr_Sozialforschung_gGmbH_Schwerpunkt_Bildung,_Arbeit_und_Lebenschancen_Abt._Ungleichheit_und_soziale_Integration", 
+      "location": "Berlin", 
+      "name": "Wissenschaftszentrum Berlin f\u00fcr Sozialforschung gGmbH Schwerpunkt Bildung, Arbeit und Lebenschancen Abt. Ungleichheit und soziale Integration"
+     }, 
+     "start_date": "2011", 
+     "source": "WZB", 
+     "activity": "WZB", 
+     "@id": 229, 
+     "@type": "Occupation"
+    }, 
+    "220": {
+     "function": "Wissenschaftlicher Mitarbeiter", 
+     "end_date": "2001", 
+     "institution_l1": {
+      "@id": "Lehrstuhl_f\u00fcr_Methoden_der_empirischen_Sozialforschung", 
+      "location": "Mannheim", 
+      "name": "Lehrstuhl f\u00fcr Methoden der empirischen Sozialforschung"
+     }, 
+     "start_date": "1996", 
+     "source": "WZB", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 220, 
+     "@type": "Occupation"
+    }, 
+    "221": {
+     "function": "Promotion", 
+     "institution_l1": {
+      "@id": "Lehrstuhl_f\u00fcr_Methoden_der_empirischen_Sozialforschung", 
+      "location": "Mannheim", 
+      "name": "Lehrstuhl f\u00fcr Methoden der empirischen Sozialforschung"
+     }, 
+     "start_date": "2001", 
+     "source": "WZB", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 221, 
+     "@type": "Occupation"
+    }, 
+    "222": {
+     "function": "Wissenschaftlicher Assistent", 
+     "end_date": "2003", 
+     "institution_l1": {
+      "@id": "Lehrstuhl_f\u00fcr_Methoden_der_empirischen_Sozialforschung", 
+      "location": "Mannheim", 
+      "name": "Lehrstuhl f\u00fcr Methoden der empirischen Sozialforschung"
+     }, 
+     "start_date": "2001", 
+     "source": "WZB", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 222, 
+     "@type": "Occupation"
+    }, 
+    "223": {
+     "function": "Professor", 
+     "institution_l1": {
+      "@id": "Professur_f\u00fcr_Methoden_der_empirischen_Sozialforschung", 
+      "location": "Potsdam", 
+      "name": "Professur f\u00fcr Methoden der empirischen Sozialforschung"
+     }, 
+     "start_date": "2012", 
+     "source": "Universit\u00e4t Potsdam", 
+     "activity": "Universit\u00e4t Potsdam", 
+     "@id": 223, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Kohler,_Ulrich", 
+   "@type": "Person", 
+   "name": "Kohler, Ulrich"
+  }, 
+  "Jann,_Ben": {
+   "occupations": {
+    "158": {
+     "function": "Student research assistant of Prof. Dr. Ruth Meyer Schweizer", 
+     "end_date": "1996", 
+     "institution_l1": {
+      "@id": "Department_Sozialwissenschaften_Institut_f\u00fcr_Soziologie", 
+      "location": "Bern", 
+      "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "1996", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 158, 
+     "@type": "Occupation"
+    }, 
+    "159": {
+     "function": "Research assistant", 
+     "end_date": "2002", 
+     "institution_l1": {
+      "@id": "Department_Sozialwissenschaften_Institut_f\u00fcr_Soziologie", 
+      "location": "Bern", 
+      "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "1997", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 159, 
+     "@type": "Occupation"
+    }, 
+    "160": {
+     "function": "Scientific assistant of Prof. Dr. Andreas Diekmann", 
+     "end_date": "2003", 
+     "institution_l1": {
+      "@id": "Department_Sozialwissenschaften_Institut_f\u00fcr_Soziologie", 
+      "location": "Bern", 
+      "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "1998", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 160, 
+     "@type": "Occupation"
+    }, 
+    "161": {
+     "function": "Member of the search committee for the Professorship in Political Science", 
+     "end_date": "2011", 
+     "institution_l1": {
+      "@id": "Department_Sozialwissenschaften_Institut_f\u00fcr_Soziologie", 
+      "location": "Bern", 
+      "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "2011", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 161, 
+     "@type": "Occupation"
+    }, 
+    "162": {
+     "function": "\u201evonRoll Jour fix\u201c representative", 
+     "end_date": "2013", 
+     "institution_l1": {
+      "@id": "Department_Sozialwissenschaften_Institut_f\u00fcr_Soziologie", 
+      "location": "Bern", 
+      "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "2011", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 162, 
+     "@type": "Occupation"
+    }, 
+    "163": {
+     "function": "President of the search committee for the Professorship in Social Sciences", 
+     "end_date": "2012", 
+     "institution_l1": {
+      "@id": "Department_Sozialwissenschaften_Institut_f\u00fcr_Soziologie", 
+      "location": "Bern", 
+      "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "2012", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 163, 
+     "@type": "Occupation"
+    }, 
+    "164": {
+     "function": "Managing director", 
+     "end_date": "2014", 
+     "institution_l1": {
+      "@id": "Department_Sozialwissenschaften_Institut_f\u00fcr_Soziologie", 
+      "location": "Bern", 
+      "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "2012", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 164, 
+     "@type": "Occupation"
+    }, 
+    "165": {
+     "function": "Vice managing director", 
+     "end_date": "2014", 
+     "institution_l1": {
+      "@id": "Department_Sozialwissenschaften_Institut_f\u00fcr_Soziologie", 
+      "location": "Bern", 
+      "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "2011", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 165, 
+     "@type": "Occupation"
+    }, 
+    "166": {
+     "function": "Managing director", 
+     "end_date": "2016", 
+     "institution_l1": {
+      "@id": "Department_Sozialwissenschaften_Institut_f\u00fcr_Soziologie", 
+      "location": "Bern", 
+      "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "2014", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 166, 
+     "@type": "Occupation"
+    }, 
+    "167": {
+     "function": "Representative of the Faculty of Business, Economics and Social Sciences in the task group \u201cBologna II\u201d", 
+     "institution_l1": {
+      "@id": "Department_Sozialwissenschaften_Institut_f\u00fcr_Soziologie", 
+      "location": "Bern", 
+      "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "2011", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 167, 
+     "@type": "Occupation"
+    }, 
+    "168": {
+     "function": "Representative of the Faculty of Business, Economics and Social Sciences in the committee for the Theodor-Kocher-Prize", 
+     "institution_l1": {
+      "@id": "Department_Sozialwissenschaften_Institut_f\u00fcr_Soziologie", 
+      "location": "Bern", 
+      "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "2011", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 168, 
+     "@type": "Occupation"
+    }, 
+    "169": {
+     "function": "Vice president of the section on \u201cModellbildung und Simulation\u201d", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "Deutsche_Gesellschaft_f\u00fcr_Soziologie", 
+      "name": "Deutsche Gesellschaft f\u00fcr Soziologie"
+     }, 
+     "start_date": "2000", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "German Sociological Association", 
+     "@id": 169, 
+     "@type": "Occupation"
+    }, 
+    "170": {
+     "function": "President of the section on \u201cModellbildung und Simulation\u201d", 
+     "end_date": "2014", 
+     "institution_l1": {
+      "@id": "Deutsche_Gesellschaft_f\u00fcr_Soziologie", 
+      "name": "Deutsche Gesellschaft f\u00fcr Soziologie"
+     }, 
+     "start_date": "2010", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "German Sociological Association", 
+     "@id": 170, 
+     "@type": "Occupation"
+    }, 
+    "171": {
+     "function": "Doktorand", 
+     "end_date": "2008", 
+     "institution_l1": {
+      "@id": "ETH_Z\u00fcrich", 
+      "name": "ETH Z\u00fcrich"
+     }, 
+     "start_date": "2006", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "ETH Z\u00fcrich", 
+     "@id": 171, 
+     "@type": "Occupation"
+    }, 
+    "172": {
+     "function": "Scientific assistant of Prof. Dr. Andreas Diekmann", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "ETH_Z\u00fcrich", 
+      "name": "ETH Z\u00fcrich"
+     }, 
+     "start_date": "2003", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "ETH Z\u00fcrich", 
+     "@id": 172, 
+     "@type": "Occupation"
+    }, 
+    "173": {
+     "function": "Representative of mid-level faculty in the education committee (Unterrichtskommission)", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "ETH_Z\u00fcrich", 
+      "name": "ETH Z\u00fcrich"
+     }, 
+     "start_date": "2006", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "ETH Z\u00fcrich", 
+     "@id": 173, 
+     "@type": "Occupation"
+    }, 
+    "174": {
+     "function": "Representative of mid-level faculty in the department meetings (Departementskonferenz)", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "ETH_Z\u00fcrich", 
+      "name": "ETH Z\u00fcrich"
+     }, 
+     "start_date": "2007", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "ETH Z\u00fcrich", 
+     "@id": 174, 
+     "@type": "Occupation"
+    }, 
+    "175": {
+     "function": "Member of the expert panel \u201eSystem der Haushalts- und Personenerhebungen\u201c\r\n(SHAPE)", 
+     "end_date": "2008", 
+     "institution_l1": {}, 
+     "start_date": "2006", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Swiss Federal Statistical Office", 
+     "@id": 175, 
+     "@type": "Occupation"
+    }, 
+    "176": {
+     "function": "Member of the editorial board of the The Stata Journal", 
+     "institution_l1": {}, 
+     "start_date": "2005", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "The Stata Journal", 
+     "@id": 176, 
+     "@type": "Occupation"
+    }, 
+    "177": {
+     "function": "Member of the editorial committee of the Swiss Journal of Sociology", 
+     "institution_l1": {}, 
+     "start_date": "2007", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Swiss Journal of Sociology", 
+     "@id": 177, 
+     "@type": "Occupation"
+    }, 
+    "178": {
+     "function": "Member of the scientific advisory board for the Master of Science in\r\nVocational Education and Training", 
+     "institution_l1": {}, 
+     "start_date": "2011", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Swiss Federal Institute for Vocational\nEducation and Training (SFIVET)", 
+     "@id": 178, 
+     "@type": "Occupation"
+    }, 
+    "179": {
+     "function": "Member of the editorial board of Survey Methods: Insights from the\r\nField", 
+     "institution_l1": {}, 
+     "start_date": "2012", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Methods: Insights from the\r\nField.", 
+     "@id": 179, 
+     "@type": "Occupation"
+    }, 
+    "180": {
+     "function": "Member of the executive committee", 
+     "institution_l1": {}, 
+     "start_date": "2013", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Swiss Sociological Association", 
+     "@id": 180, 
+     "@type": "Occupation"
+    }, 
+    "181": {
+     "function": "Vice president", 
+     "institution_l1": {}, 
+     "start_date": "2013", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Swiss Sociological Association", 
+     "@id": 181, 
+     "@type": "Occupation"
+    }, 
+    "182": {
+     "function": "Member of the Board of Trustees", 
+     "institution_l1": {}, 
+     "start_date": "2016", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "GESIS \u2013 Leibniz Institute for the\r\nSocial Sciences", 
+     "@id": 182, 
+     "@type": "Occupation"
+    }, 
+    "183": {
+     "function": "President of the expert panel on social statistics", 
+     "institution_l1": {}, 
+     "start_date": "2017", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Swiss Federal\nStatistical Offce", 
+     "@id": 183, 
+     "@type": "Occupation"
+    }, 
+    "184": {
+     "function": "Discussant/Co-organizer of the symposium \u201cBildungsmonitoring 2\u201d at the Annual Conferenceof the Swiss Society for Research in Education (SSRE) in Lausanne", 
+     "institution_l1": {}, 
+     "start_date": "2016", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Swiss Society for Research in Education (SSRE)", 
+     "@id": 184, 
+     "@type": "Occupation"
+    }, 
+    "185": {
+     "function": "Member of the International Board of Reviewers of the General Online Research Conference 2016 (GOR 16) in Dresden", 
+     "institution_l1": {}, 
+     "start_date": "2016", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "General Online Research ", 
+     "@id": 185, 
+     "@type": "Occupation"
+    }, 
+    "186": {
+     "function": "Funded projects ", 
+     "end_date": "2016", 
+     "institution_l1": {}, 
+     "start_date": "2015", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Mandates/contract research: Member of the \u201cAufbaugruppe f\u00fcr das wissenschaftliche Konsortium zur \u00dcberpr\u00fcfung des Erreichens der Grundkompetenzen (\u00dcGK)\u201d, on behalf of the Swiss Conference of Cantonal Ministers of Education (EDK), CHF 90\u2019000.", 
+     "@id": 186, 
+     "@type": "Occupation"
+    }, 
+    "187": {
+     "source": "Google Scholar", 
+     "@id": 187, 
+     "@type": "Occupation", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bern", 
+      "name": "Universit\u00e4t Bern"
+     }, 
+     "activity": "Universit\u00e4t Bern"
+    }, 
+    "188": {
+     "function": "Studium ", 
+     "end_date": "1998", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bern", 
+      "name": "Universit\u00e4t Bern"
+     }, 
+     "start_date": "1993", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 188, 
+     "@type": "Occupation"
+    }, 
+    "189": {
+     "function": "Doktorand", 
+     "end_date": "2005", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bern", 
+      "name": "Universit\u00e4t Bern"
+     }, 
+     "start_date": "1998", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 189, 
+     "@type": "Occupation"
+    }, 
+    "190": {
+     "function": "Training course \u201cLehr- und Fachvortr\u00e4ge\u201d", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bern", 
+      "name": "Universit\u00e4t Bern"
+     }, 
+     "start_date": "2012", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 190, 
+     "@type": "Occupation"
+    }, 
+    "191": {
+     "function": "Training course \u201cGrundlagen der Hochschuldidaktik", 
+     "end_date": "2014", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bern", 
+      "name": "Universit\u00e4t Bern"
+     }, 
+     "start_date": "2013", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 191, 
+     "@type": "Occupation"
+    }, 
+    "192": {
+     "function": "Assistant Professor (with tenure track) for Sociology, in particular for Social Stratification ", 
+     "end_date": "2011", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bern", 
+      "name": "Universit\u00e4t Bern"
+     }, 
+     "start_date": "2010", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 192, 
+     "@type": "Occupation"
+    }, 
+    "193": {
+     "function": "Associate Professor for Sociology, in particular for Social Stratification", 
+     "end_date": "2014", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bern", 
+      "name": "Universit\u00e4t Bern"
+     }, 
+     "start_date": "2011", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 193, 
+     "@type": "Occupation"
+    }, 
+    "194": {
+     "function": "Professor for Sociology, in particular for Social Stratification", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bern", 
+      "name": "Universit\u00e4t Bern"
+     }, 
+     "start_date": "2014", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 194, 
+     "@type": "Occupation"
+    }, 
+    "195": {
+     "function": "Vice president of the \u201cHauskommission vonRoll\u201d", 
+     "end_date": "2015", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bern", 
+      "name": "Universit\u00e4t Bern"
+     }, 
+     "start_date": "2013", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 195, 
+     "@type": "Occupation"
+    }, 
+    "196": {
+     "function": "Representative of the Department of Social Sciences in the the \u201cHauskommission vonRoll\u201d", 
+     "end_date": "2016", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bern", 
+      "name": "Universit\u00e4t Bern"
+     }, 
+     "start_date": "2013", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 196, 
+     "@type": "Occupation"
+    }, 
+    "197": {
+     "function": "Member of the board", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bern", 
+      "name": "Universit\u00e4t Bern"
+     }, 
+     "start_date": "2014", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Bern", 
+     "@id": 197, 
+     "@type": "Occupation"
+    }, 
+    "198": {
+     "function": "Interim Professor for Sociology and Methodology", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Leipzig", 
+      "name": "Universit\u00e4t Leipzig"
+     }, 
+     "start_date": "2010", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Leipzig", 
+     "@id": 198, 
+     "@type": "Occupation"
+    }, 
+    "199": {
+     "function": "Offer of a W3 Professorship in Sociology and Methodology", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Leipzig", 
+      "name": "Universit\u00e4t Leipzig"
+     }, 
+     "start_date": "2010", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Leipzig", 
+     "@id": 199, 
+     "@type": "Occupation"
+    }, 
+    "200": {
+     "function": "Offer of a W2 Professorship in Social Science Research Methods and Social Structure Analysis", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Osnabrueck", 
+      "name": "Universit\u00e4t Osnabrueck"
+     }, 
+     "start_date": "2010", 
+     "source": "Universit\u00e4t Bern", 
+     "activity": "Universit\u00e4t Osnabrueck", 
+     "@id": 200, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Jann,_Ben", 
+   "@type": "Person", 
+   "name": "Jann, Ben"
+  }, 
+  "Petras,_Vivien": {
+   "occupations": {
+    "304": {
+     "function": "Studium ", 
+     "end_date": "2001", 
+     "institution_l1": {
+      "@id": "Humboldt-Universit\u00e4t_Berlin", 
+      "location": "Berlin", 
+      "name": "Humboldt-Universit\u00e4t Berlin"
+     }, 
+     "start_date": "1999", 
+     "source": "Berkely Student Homepage", 
+     "activity": "Humboldt-Universit\u00e4t Berlin", 
+     "@id": 304, 
+     "@type": "Occupation"
+    }, 
+    "305": {
+     "function": "Assitant Professor", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "Institut_f\u00fcr_Bibliotheks-_und_Informationswissenschaft", 
+      "location": "Berlin", 
+      "name": "Institut f\u00fcr Bibliotheks- und Informationswissenschaft"
+     }, 
+     "start_date": "2009", 
+     "source": "linkedin", 
+     "activity": "Humboldt-Universit\u00e4t Berlin", 
+     "@id": 305, 
+     "@type": "Occupation"
+    }, 
+    "306": {
+     "function": "Professorin f\u00fcr Information Retrieval Institut f\u00fcr Bibliotheks- und Informationswissenschaft", 
+     "institution_l1": {
+      "@id": "Institut_f\u00fcr_Bibliotheks-_und_Informationswissenschaft", 
+      "location": "Berlin", 
+      "name": "Institut f\u00fcr Bibliotheks- und Informationswissenschaft"
+     }, 
+     "start_date": "2012", 
+     "source": "linkedin", 
+     "activity": "Humboldt-Universit\u00e4t Berlin", 
+     "@id": 306, 
+     "@type": "Occupation"
+    }, 
+    "307": {
+     "function": "Studium ", 
+     "end_date": "2006", 
+     "institution_l1": {
+      "@id": "University_of_California_Berkeley", 
+      "location": "Berkeley", 
+      "name": "University of California Berkeley"
+     }, 
+     "start_date": "2001", 
+     "source": "linkedin", 
+     "activity": "University of California, Berkeley", 
+     "@id": 307, 
+     "@type": "Occupation"
+    }, 
+    "303": {
+     "function": "Studium ", 
+     "end_date": "2001", 
+     "institution_l1": {
+      "@id": "Humboldt-Universit\u00e4t_Berlin", 
+      "location": "Berlin", 
+      "name": "Humboldt-Universit\u00e4t Berlin"
+     }, 
+     "start_date": "1995", 
+     "source": "Berkely Student Homepage", 
+     "activity": "Humboldt-Universit\u00e4t Berlin", 
+     "@id": 303, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Petras,_Vivien", 
+   "@type": "Person", 
+   "name": "Petras, Vivien"
+  }, 
+  "Weins,_Cornelia": {
+   "occupations": {
+    "395": {
+     "function": "Professorin", 
+     "institution_l1": {
+      "@id": "Fach_Soziologie_Professur_f\u00fcr_Empirische_Sozialforschung_und_Methodenlehre", 
+      "location": "Trier", 
+      "name": "Fach Soziologie Professur f\u00fcr Empirische Sozialforschung und Methodenlehre"
+     }, 
+     "source": "Ruhr-Universit\u00e4t Bochum", 
+     "activity": "Universit\u00e4t Trier", 
+     "@id": 395, 
+     "@type": "Occupation"
+    }, 
+    "396": {
+     "function": "Professorin", 
+     "institution_l1": {
+      "@id": "Sektion_Sozialwissenschaftliche_Methoden_und_Statistik_Lehrstuhl_f\u00fcr_Empirische_Sozialforschung", 
+      "location": "Bochum", 
+      "name": "Sektion Sozialwissenschaftliche Methoden und Statistik Lehrstuhl f\u00fcr Empirische Sozialforschung"
+     }, 
+     "source": "Ruhr-Universit\u00e4t Bochum", 
+     "activity": "Ruhr-Universit\u00e4t Bochum", 
+     "@id": 396, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Weins,_Cornelia", 
+   "@type": "Person", 
+   "name": "Weins, Cornelia"
+  }, 
+  "Renner,_Karl-Heinz": {
+   "occupations": {
+    "320": {
+     "function": "Universit\u00e4tsprofessor", 
+     "end_date": "2013", 
+     "institution_l1": {
+      "@id": "Fernuniversit\u00e4t_Hagen", 
+      "location": "Hagen", 
+      "name": "Fernuniversit\u00e4t Hagen"
+     }, 
+     "start_date": "2007", 
+     "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+     "activity": "FernUniversit\u00e4t Hagen", 
+     "@id": 320, 
+     "@type": "Occupation"
+    }, 
+    "321": {
+     "function": "Studentische Hilfskraft", 
+     "end_date": "1993", 
+     "institution_l1": {
+      "@id": "Lehrstuhl_Psychologie_IV_Pers\u00f6nlichkeitspsychologie", 
+      "location": "Bamberg", 
+      "name": "Lehrstuhl Psychologie IV Pers\u00f6nlichkeitspsychologie"
+     }, 
+     "start_date": "1988", 
+     "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+     "activity": "Universit\u00e4t Bamberg", 
+     "@id": 321, 
+     "@type": "Occupation"
+    }, 
+    "322": {
+     "function": "Wissenschaftlicher Mitarbeiter", 
+     "end_date": "1999", 
+     "institution_l1": {
+      "@id": "Lehrstuhl_Psychologie_IV_Pers\u00f6nlichkeitspsychologie", 
+      "location": "Bamberg", 
+      "name": "Lehrstuhl Psychologie IV Pers\u00f6nlichkeitspsychologie"
+     }, 
+     "start_date": "1994", 
+     "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+     "activity": "Universit\u00e4t Bamberg", 
+     "@id": 322, 
+     "@type": "Occupation"
+    }, 
+    "323": {
+     "function": "Wissenschaftlicher Assistent", 
+     "end_date": "2000", 
+     "institution_l1": {
+      "@id": "Lehrstuhl_Psychologie_IV_Pers\u00f6nlichkeitspsychologie", 
+      "location": "Bamberg", 
+      "name": "Lehrstuhl Psychologie IV Pers\u00f6nlichkeitspsychologie"
+     }, 
+     "start_date": "1999", 
+     "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+     "activity": "Universit\u00e4t Bamberg", 
+     "@id": 323, 
+     "@type": "Occupation"
+    }, 
+    "324": {
+     "function": "Promotion", 
+     "institution_l1": {
+      "@id": "Lehrstuhl_Psychologie_IV_Pers\u00f6nlichkeitspsychologie", 
+      "location": "Bamberg", 
+      "name": "Lehrstuhl Psychologie IV Pers\u00f6nlichkeitspsychologie"
+     }, 
+     "start_date": "2000", 
+     "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+     "activity": "Universit\u00e4t Bamberg", 
+     "@id": 324, 
+     "@type": "Occupation"
+    }, 
+    "325": {
+     "function": "Habilitation", 
+     "institution_l1": {
+      "@id": "Lehrstuhl_Psychologie_IV_Pers\u00f6nlichkeitspsychologie", 
+      "location": "Bamberg", 
+      "name": "Lehrstuhl Psychologie IV Pers\u00f6nlichkeitspsychologie"
+     }, 
+     "start_date": "2006", 
+     "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+     "activity": "Universit\u00e4t Bamberg", 
+     "@id": 325, 
+     "@type": "Occupation"
+    }, 
+    "326": {
+     "function": "Akademischer Oberrat", 
+     "end_date": "2007", 
+     "institution_l1": {
+      "@id": "Lehrstuhl_Psychologie_IV_Pers\u00f6nlichkeitspsychologie", 
+      "location": "Bamberg", 
+      "name": "Lehrstuhl Psychologie IV Pers\u00f6nlichkeitspsychologie"
+     }, 
+     "start_date": "2006", 
+     "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+     "activity": "Universit\u00e4t Bamberg", 
+     "@id": 326, 
+     "@type": "Occupation"
+    }, 
+    "327": {
+     "function": "Studium", 
+     "end_date": "1993", 
+     "institution_l1": {
+      "@id": "Otto-Friedrich-Universit\u00e4t_Bamberg", 
+      "location": "Bamberg", 
+      "name": "Otto-Friedrich-Universit\u00e4t Bamberg"
+     }, 
+     "start_date": "1987", 
+     "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+     "activity": "Universit\u00e4t Bamberg", 
+     "@id": 327, 
+     "@type": "Occupation"
+    }, 
+    "328": {
+     "function": "Gastwissenschaftler DFG-Forschungsgruppe \"Neue Medien\"", 
+     "end_date": "2003", 
+     "institution_l1": {
+      "@id": "Technische_Universit\u00e4t_Chemnitz", 
+      "location": "Chemnitz", 
+      "name": "Technische Universit\u00e4t Chemnitz"
+     }, 
+     "start_date": "2003", 
+     "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+     "activity": "TU Chemnitz", 
+     "@id": 328, 
+     "@type": "Occupation"
+    }, 
+    "329": {
+     "function": "Gastwissenschaftler DFG-Forschungsgruppe \"Neue Medien\"", 
+     "end_date": "2005", 
+     "institution_l1": {
+      "@id": "Technische_Universit\u00e4t_Chemnitz", 
+      "location": "Chemnitz", 
+      "name": "Technische Universit\u00e4t Chemnitz"
+     }, 
+     "start_date": "2004", 
+     "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+     "activity": "TU Chemnitz", 
+     "@id": 329, 
+     "@type": "Occupation"
+    }, 
+    "330": {
+     "function": "Professor", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_der_Bundeswehr_M\u00fcnchen", 
+      "location": "Neubiberg", 
+      "name": "Universit\u00e4t der Bundeswehr M\u00fcnchen"
+     }, 
+     "start_date": "2013", 
+     "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+     "activity": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+     "@id": 330, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Renner,_Karl-Heinz", 
+   "@type": "Person", 
+   "name": "Renner, Karl-Heinz"
+  }, 
+  "Strohmaier,_Markus": {
+   "occupations": {
+    "386": {
+     "function": "Professor", 
+     "institution_l1": {
+      "@id": "FB_04_Informatik", 
+      "location": "Koblenz", 
+      "name": "FB 04 Informatik"
+     }, 
+     "start_date": "2013", 
+     "source": "Homepage markusstrohmaier.info", 
+     "activity": "Universit\u00e4t Koblenz-Landau", 
+     "@id": 386, 
+     "@type": "Occupation"
+    }, 
+    "387": {
+     "function": "Scientific Director", 
+     "end_date": "2017", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften", 
+      "location": "Mannheim", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+     }, 
+     "start_date": "2013", 
+     "source": "Homepage markusstrohmaier.info", 
+     "activity": "GESIS Leibniz Institut f\u00fcr Sozialwissenschaften eV:\u00a0Mannheim,\u00a0Baden-W\u00fcrttemberg,\u00a0Germany", 
+     "@id": 387, 
+     "@type": "Occupation"
+    }, 
+    "388": {
+     "function": "Visiting Scientist/Professor", 
+     "end_date": "2010", 
+     "institution_l1": {}, 
+     "start_date": "2009", 
+     "source": "Homepage markusstrohmaier.info", 
+     "activity": "XEROX Parc", 
+     "@id": 388, 
+     "@type": "Occupation"
+    }, 
+    "389": {
+     "function": "Visiting Scientist/Professor", 
+     "institution_l1": {
+      "@id": "Rheinisch-Westf\u00e4lische_Technische_Hochschule_Aachen", 
+      "location": "Aachen", 
+      "name": "Rheinisch-Westf\u00e4lische Technische Hochschule Aachen"
+     }, 
+     "start_date": "2009", 
+     "source": "Homepage markusstrohmaier.info", 
+     "activity": "RWTH Aachen", 
+     "@id": 389, 
+     "@type": "Occupation"
+    }, 
+    "390": {
+     "institution_l1": {
+      "@id": "Rheinisch-Westf\u00e4lische_Technische_Hochschule_Aachen", 
+      "location": "Aachen", 
+      "name": "Rheinisch-Westf\u00e4lische Technische Hochschule Aachen"
+     }, 
+     "@type": "Occupation", 
+     "source": "GESIS", 
+     "activity": "RWTH Aachen", 
+     "@id": 390, 
+     "start_date": "2017"
+    }, 
+    "391": {
+     "function": "Visiting Scientist/Professor", 
+     "institution_l1": {
+      "@id": "Stanford_University", 
+      "location": "Stanford", 
+      "name": "Stanford University"
+     }, 
+     "start_date": "2011", 
+     "source": "Homepage markusstrohmaier.info", 
+     "activity": "Stanford University", 
+     "@id": 391, 
+     "@type": "Occupation"
+    }, 
+    "392": {
+     "function": "Studium", 
+     "institution_l1": {
+      "@id": "Technische_Universit\u00e4t_Graz", 
+      "location": "Graz", 
+      "name": "Technische Universit\u00e4t Graz"
+     }, 
+     "start_date": "2004", 
+     "source": "Homepage markusstrohmaier.info", 
+     "activity": "Technische Universit\u00e4t Graz", 
+     "@id": 392, 
+     "@type": "Occupation"
+    }, 
+    "393": {
+     "function": "Habilitation", 
+     "institution_l1": {
+      "@id": "Technische_Universit\u00e4t_Graz", 
+      "location": "Graz", 
+      "name": "Technische Universit\u00e4t Graz"
+     }, 
+     "start_date": "2012", 
+     "source": "Homepage markusstrohmaier.info", 
+     "activity": "Technische Universit\u00e4t Graz", 
+     "@id": 393, 
+     "@type": "Occupation"
+    }, 
+    "394": {
+     "function": "Postdoctoral Fellow", 
+     "end_date": "2007", 
+     "institution_l1": {
+      "@id": "University_of_Toronto", 
+      "location": "Toronto", 
+      "name": "University of Toronto"
+     }, 
+     "start_date": "2006", 
+     "source": "Homepage markusstrohmaier.info", 
+     "activity": "Universit\u00e4t Toronto", 
+     "@id": 394, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Strohmaier,_Markus", 
+   "@type": "Person", 
+   "name": "Strohmaier, Markus"
+  }, 
+  "Womser-Hacker,_Christa": {
+   "occupations": {
+    "403": {
+     "function": "Studium", 
+     "end_date": "1984", 
+     "institution_l1": {
+      "@id": "_Universit\u00e4t_Regensburg", 
+      "name": " Universit\u00e4t Regensburg"
+     }, 
+     "start_date": "1976", 
+     "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+     "activity": " Universit\u00e4t Regensburg", 
+     "@id": 403, 
+     "@type": "Occupation"
+    }, 
+    "404": {
+     "function": "Magister Artium", 
+     "institution_l1": {
+      "@id": "_Universit\u00e4t_Regensburg", 
+      "name": " Universit\u00e4t Regensburg"
+     }, 
+     "start_date": "1984", 
+     "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+     "activity": " Universit\u00e4t Regensburg", 
+     "@id": 404, 
+     "@type": "Occupation"
+    }, 
+    "405": {
+     "function": "Promotion", 
+     "institution_l1": {
+      "@id": "_Universit\u00e4t_Regensburg", 
+      "name": " Universit\u00e4t Regensburg"
+     }, 
+     "start_date": "1988", 
+     "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+     "activity": "Universit\u00e4t Regensburg", 
+     "@id": 405, 
+     "@type": "Occupation"
+    }, 
+    "406": {
+     "function": "Projektleitung ", 
+     "end_date": "1997", 
+     "institution_l1": {
+      "@id": "_Universit\u00e4t_Regensburg", 
+      "name": " Universit\u00e4t Regensburg"
+     }, 
+     "start_date": "1984", 
+     "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+     "activity": "Universit\u00e4t Regensburg", 
+     "@id": 406, 
+     "@type": "Occupation"
+    }, 
+    "407": {
+     "function": "Wissenschaftliche Assistentin/Oberassistentin", 
+     "end_date": "1997", 
+     "institution_l1": {
+      "@id": "_Universit\u00e4t_Regensburg", 
+      "name": " Universit\u00e4t Regensburg"
+     }, 
+     "start_date": "1991", 
+     "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+     "activity": "Universit\u00e4t Regensburg", 
+     "@id": 407, 
+     "@type": "Occupation"
+    }, 
+    "408": {
+     "function": "Ruf auf die C4-Professur \"Informationswissenschaft\" ", 
+     "institution_l1": {
+      "@id": "Heinrich-Heine-Universit\u00e4t_D\u00fcsseldorf", 
+      "location": "D\u00fcsseldorf", 
+      "name": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+     }, 
+     "start_date": "2002", 
+     "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+     "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf", 
+     "@id": 408, 
+     "@type": "Occupation"
+    }, 
+    "409": {
+     "function": "Habilitation und Venia Legendi", 
+     "institution_l1": {}, 
+     "start_date": "1997", 
+     "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+     "@id": 409, 
+     "@type": "Occupation"
+    }, 
+    "410": {
+     "function": "C3-Professur f\u00fcr \"Angewandte Informationswissenschaft\"", 
+     "end_date": "2002", 
+     "institution_l1": {
+      "@id": "Stiftung_Universit\u00e4t_Hildesheim", 
+      "location": "Hildesheim", 
+      "name": "Stiftung Universit\u00e4t Hildesheim"
+     }, 
+     "start_date": "1998", 
+     "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+     "activity": " Universit\u00e4t Hildesheim", 
+     "@id": 410, 
+     "@type": "Occupation"
+    }, 
+    "411": {
+     "function": "C4-Professur f\u00fcr \"Informationswissenschaft\" ", 
+     "institution_l1": {
+      "@id": "Stiftung_Universit\u00e4t_Hildesheim", 
+      "location": "Hildesheim", 
+      "name": "Stiftung Universit\u00e4t Hildesheim"
+     }, 
+     "start_date": "2002", 
+     "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+     "activity": "Universit\u00e4t Hildesheim", 
+     "@id": 411, 
+     "@type": "Occupation"
+    }, 
+    "412": {
+     "function": "Vertretung der Professur \"Informationsmanagement\"", 
+     "end_date": "1998", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Konstanz", 
+      "name": "Universit\u00e4t Konstanz"
+     }, 
+     "start_date": "1997", 
+     "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+     "activity": "Universit\u00e4t Konstanz", 
+     "@id": 412, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Womser-Hacker,_Christa", 
+   "@type": "Person", 
+   "name": "Womser-Hacker, Christa"
+  }, 
+  "Lerman,_Kristina": {
+   "occupations": {
+    "290": {
+     "function": "Systems Programmer", 
+     "end_date": "1998", 
+     "institution_l1": {}, 
+     "start_date": "1996", 
+     "source": "USC University of Southern California", 
+     "activity": "Quarterdeck Office Systems, Marina del Rey", 
+     "@id": 290, 
+     "@type": "Occupation"
+    }, 
+    "291": {
+     "function": "Computer Scientist", 
+     "end_date": "2003", 
+     "institution_l1": {}, 
+     "start_date": "1998", 
+     "source": "USC University of Southern California", 
+     "activity": "USC Information Sciences Institute, Marina del Rey,", 
+     "@id": 291, 
+     "@type": "Occupation"
+    }, 
+    "292": {
+     "function": "Project Leader", 
+     "institution_l1": {}, 
+     "start_date": "2003", 
+     "source": "USC University of Southern California", 
+     "activity": "USC Information Sciences Institute, Marina del Rey,", 
+     "@id": 292, 
+     "@type": "Occupation"
+    }, 
+    "293": {
+     "function": "Assistant Research Professor", 
+     "institution_l1": {}, 
+     "start_date": "2004", 
+     "source": "USC University of Southern California", 
+     "activity": "University of Southern California", 
+     "@id": 293, 
+     "@type": "Occupation"
+    }, 
+    "294": {
+     "function": "Education", 
+     "institution_l1": {
+      "@id": "Princeton_University", 
+      "location": "Princeton", 
+      "name": "Princeton University"
+     }, 
+     "start_date": "1989", 
+     "source": "USC University of Southern California", 
+     "activity": "Princeton University", 
+     "@id": 294, 
+     "@type": "Occupation"
+    }, 
+    "295": {
+     "function": "Research Assistant", 
+     "end_date": "1995", 
+     "institution_l1": {
+      "@id": "University_of_California_Santa_Barbara", 
+      "location": "Santa Barbara", 
+      "name": "University of California Santa Barbara"
+     }, 
+     "start_date": "1990", 
+     "source": "USC University of Southern California", 
+     "activity": "University of California at Santa Barbara", 
+     "@id": 295, 
+     "@type": "Occupation"
+    }, 
+    "296": {
+     "function": "Education ", 
+     "institution_l1": {
+      "@id": "University_of_California_Santa_Barbara", 
+      "location": "Santa Barbara", 
+      "name": "University of California Santa Barbara"
+     }, 
+     "start_date": "1995", 
+     "source": "USC University of Southern California", 
+     "activity": "University of California at Santa Barbara", 
+     "@id": 296, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Lerman,_Kristina", 
+   "@type": "Person", 
+   "name": "Lerman, Kristina"
+  }, 
+  "Davidov,_Eldad": {
+   "occupations": {
+    "25": {
+     "function": "Member", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften", 
+      "location": "Mannheim", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+     }, 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "GESIS ", 
+     "@id": 25, 
+     "@type": "Occupation"
+    }, 
+    "26": {
+     "function": "Member", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften", 
+      "location": "Mannheim", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+     }, 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "GESIS", 
+     "@id": 26, 
+     "@type": "Occupation"
+    }, 
+    "27": {
+     "function": "Ph.D. in Social Sciences", 
+     "end_date": "2004", 
+     "institution_l1": {
+      "@id": "Justus-Liebig-Universit\u00e4t_Gie\u00dfen", 
+      "location": "Gie\u00dfen", 
+      "name": "Justus-Liebig-Universit\u00e4t Gie\u00dfen"
+     }, 
+     "start_date": "2001", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "Gie\u00dfen University", 
+     "@id": 27, 
+     "@type": "Occupation"
+    }, 
+    "28": {
+     "function": "Research assistant and project director", 
+     "end_date": "2006", 
+     "institution_l1": {
+      "@id": "Justus-Liebig-Universit\u00e4t_Gie\u00dfen", 
+      "location": "Gie\u00dfen", 
+      "name": "Justus-Liebig-Universit\u00e4t Gie\u00dfen"
+     }, 
+     "start_date": "2004", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "Gie\u00dfen University", 
+     "@id": 28, 
+     "@type": "Occupation"
+    }, 
+    "29": {
+     "function": "Ph.D. in Social Sciences", 
+     "end_date": "2004", 
+     "institution_l1": {
+      "@id": "Justus-Liebig-Universit\u00e4t_Gie\u00dfen", 
+      "location": "Gie\u00dfen", 
+      "name": "Justus-Liebig-Universit\u00e4t Gie\u00dfen"
+     }, 
+     "start_date": "2001", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "Gie\u00dfen University", 
+     "@id": 29, 
+     "@type": "Occupation"
+    }, 
+    "30": {
+     "function": "Research assistant and project director", 
+     "end_date": "2006", 
+     "institution_l1": {
+      "@id": "Justus-Liebig-Universit\u00e4t_Gie\u00dfen", 
+      "location": "Gie\u00dfen", 
+      "name": "Justus-Liebig-Universit\u00e4t Gie\u00dfen"
+     }, 
+     "start_date": "2004", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "Gie\u00dfen University", 
+     "@id": 30, 
+     "@type": "Occupation"
+    }, 
+    "31": {
+     "function": "Co-director", 
+     "institution_l1": {}, 
+     "start_date": "2015", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "University Research Priority Program (URPP) \"Social Networks\"", 
+     "@id": 31, 
+     "@type": "Occupation"
+    }, 
+    "32": {
+     "function": "President", 
+     "end_date": "2017", 
+     "institution_l1": {}, 
+     "start_date": "2015", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "European Survey Research Association (ESRA)", 
+     "@id": 32, 
+     "@type": "Occupation"
+    }, 
+    "33": {
+     "function": "Editor of the book series of the European Association of Methodology (EAM)", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "@id": 33, 
+     "@type": "Occupation", 
+     "institution_l1": {}
+    }, 
+    "34": {
+     "function": "Advisory board member", 
+     "institution_l1": {}, 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "Journals: Survey Research Methods (SRM), Social Science Research (SSR), Social Problems", 
+     "@id": 34, 
+     "@type": "Occupation"
+    }, 
+    "35": {
+     "function": "Vice president", 
+     "end_date": "2015", 
+     "institution_l1": {}, 
+     "start_date": "2013", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "European Survey Research Association", 
+     "@id": 35, 
+     "@type": "Occupation"
+    }, 
+    "36": {
+     "function": "President", 
+     "end_date": "2017", 
+     "institution_l1": {}, 
+     "start_date": "2015", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "European Survey Research Association", 
+     "@id": 36, 
+     "@type": "Occupation"
+    }, 
+    "37": {
+     "function": "Co-director", 
+     "institution_l1": {}, 
+     "start_date": "2015", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "University Research Priority Program (URPP) \"Social Networks\"", 
+     "@id": 37, 
+     "@type": "Occupation"
+    }, 
+    "38": {
+     "function": "President", 
+     "end_date": "2017", 
+     "institution_l1": {}, 
+     "start_date": "2015", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "European Survey Research Association (ESRA)", 
+     "@id": 38, 
+     "@type": "Occupation"
+    }, 
+    "39": {
+     "function": "Editor of the book series of the European Association of Methodology (EAM)", 
+     "institution_l1": {}, 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "European Association of Methodoloy (EAM)", 
+     "@id": 39, 
+     "@type": "Occupation"
+    }, 
+    "40": {
+     "function": "Guest editor ", 
+     "institution_l1": {}, 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "special issue in the journals: Survey Research Methods, Sociological Methods&Research, International Journal of Comparatove Sociology, Methods, Data, Analyses", 
+     "@id": 40, 
+     "@type": "Occupation"
+    }, 
+    "41": {
+     "function": "Advisory board member", 
+     "institution_l1": {}, 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "in the journals: Survey Research Methods, Social Science Research, Social Problems, Politische Psychologie", 
+     "@id": 41, 
+     "@type": "Occupation"
+    }, 
+    "42": {
+     "function": "Vice president", 
+     "end_date": "2015", 
+     "institution_l1": {}, 
+     "start_date": "2013", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "European Survey Research Association", 
+     "@id": 42, 
+     "@type": "Occupation"
+    }, 
+    "43": {
+     "function": "President", 
+     "end_date": "2017", 
+     "institution_l1": {}, 
+     "start_date": "2015", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "European Survey Research Association", 
+     "@id": 43, 
+     "@type": "Occupation"
+    }, 
+    "44": {
+     "function": "Studium", 
+     "end_date": "1995", 
+     "institution_l1": {
+      "@id": "Tel_Aviv_University", 
+      "name": "Tel Aviv University"
+     }, 
+     "start_date": "1993", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "Tel Aviv University", 
+     "@id": 44, 
+     "@type": "Occupation"
+    }, 
+    "45": {
+     "function": "Studium", 
+     "end_date": "1996", 
+     "institution_l1": {
+      "@id": "Tel_Aviv_University", 
+      "name": "Tel Aviv University"
+     }, 
+     "start_date": "1994", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "Tel Aviv University", 
+     "@id": 45, 
+     "@type": "Occupation"
+    }, 
+    "46": {
+     "function": "Teacher and research assistant sociology", 
+     "end_date": "1999", 
+     "institution_l1": {
+      "@id": "Tel_Aviv_University", 
+      "name": "Tel Aviv University"
+     }, 
+     "start_date": "1997", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "Tel Aviv University", 
+     "@id": 46, 
+     "@type": "Occupation"
+    }, 
+    "47": {
+     "function": "Studium", 
+     "end_date": "1995", 
+     "institution_l1": {
+      "@id": "Tel_Aviv_University", 
+      "name": "Tel Aviv University"
+     }, 
+     "start_date": "1993", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "Tel Aviv University", 
+     "@id": 47, 
+     "@type": "Occupation"
+    }, 
+    "48": {
+     "function": "Studium", 
+     "end_date": "1996", 
+     "institution_l1": {
+      "@id": "Tel_Aviv_University", 
+      "name": "Tel Aviv University"
+     }, 
+     "start_date": "1994", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "Tel Aviv University", 
+     "@id": 48, 
+     "@type": "Occupation"
+    }, 
+    "49": {
+     "function": "Teacher and research assistant sociology", 
+     "end_date": "1999", 
+     "institution_l1": {
+      "@id": "Tel_Aviv_University", 
+      "name": "Tel Aviv University"
+     }, 
+     "start_date": "1997", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "Tel Aviv University", 
+     "@id": 49, 
+     "@type": "Occupation"
+    }, 
+    "50": {
+     "function": "Habilitation", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_K\u00f6ln", 
+      "name": "Universit\u00e4t K\u00f6ln"
+     }, 
+     "start_date": "2008", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "Cologne University", 
+     "@id": 50, 
+     "@type": "Occupation"
+    }, 
+    "51": {
+     "function": "Full professorship", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_K\u00f6ln", 
+      "name": "Universit\u00e4t K\u00f6ln"
+     }, 
+     "start_date": "2016", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "University of Cologne", 
+     "@id": 51, 
+     "@type": "Occupation"
+    }, 
+    "52": {
+     "function": "Substitute professorship", 
+     "end_date": "2008", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "2007", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "University of Mannheim", 
+     "@id": 52, 
+     "@type": "Occupation"
+    }, 
+    "53": {
+     "function": "Substitute professorship", 
+     "end_date": "2008", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "2007", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "University of Mannheim", 
+     "@id": 53, 
+     "@type": "Occupation"
+    }, 
+    "54": {
+     "function": "Associate professorship", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Z\u00fcrich", 
+      "name": "Universit\u00e4t Z\u00fcrich"
+     }, 
+     "start_date": "2009", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "University of Zurich", 
+     "@id": 54, 
+     "@type": "Occupation"
+    }, 
+    "55": {
+     "function": "Associate professorship", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Z\u00fcrich", 
+      "name": "Universit\u00e4t Z\u00fcrich"
+     }, 
+     "start_date": "2009", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "University of Zurich", 
+     "@id": 55, 
+     "@type": "Occupation"
+    }, 
+    "56": {
+     "function": "Full professorship", 
+     "institution_l1": {
+      "@id": "Universit\u00e4ts-_und_Stadtbibliothek_K\u00f6ln_\u2013_USB", 
+      "name": "Universit\u00e4ts- und Stadtbibliothek K\u00f6ln \u2013 USB"
+     }, 
+     "start_date": "2016", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "University of Cologne", 
+     "@id": 56, 
+     "@type": "Occupation"
+    }, 
+    "57": {
+     "function": "Research assistant\u00a0 ", 
+     "end_date": "2008", 
+     "institution_l1": {
+      "@id": "University_of_Cologne", 
+      "name": "University of Cologne"
+     }, 
+     "start_date": "2006", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "University of Cologne", 
+     "@id": 57, 
+     "@type": "Occupation"
+    }, 
+    "58": {
+     "function": "Habilitation", 
+     "institution_l1": {
+      "@id": "University_of_Cologne", 
+      "name": "University of Cologne"
+     }, 
+     "start_date": "2008", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "Cologne University", 
+     "@id": 58, 
+     "@type": "Occupation"
+    }, 
+    "59": {
+     "function": "Substitute professorship", 
+     "end_date": "2009", 
+     "institution_l1": {
+      "@id": "University_of_Cologne", 
+      "name": "University of Cologne"
+     }, 
+     "start_date": "2008", 
+     "source": "Universit\u00e4t Z\u00fcrich", 
+     "activity": "University of Cologne", 
+     "@id": 59, 
+     "@type": "Occupation"
+    }, 
+    "60": {
+     "function": "Research assistant\u00a0 ", 
+     "end_date": "2008", 
+     "institution_l1": {
+      "@id": "University_of_Cologne", 
+      "name": "University of Cologne"
+     }, 
+     "start_date": "2006", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "University of Cologne", 
+     "@id": 60, 
+     "@type": "Occupation"
+    }, 
+    "61": {
+     "function": "Substitute professorship", 
+     "end_date": "2009", 
+     "institution_l1": {
+      "@id": "University_of_Cologne", 
+      "name": "University of Cologne"
+     }, 
+     "start_date": "2008", 
+     "source": "Universit\u00e4t K\u00f6ln", 
+     "activity": "University of Cologne", 
+     "@id": 61, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Davidov,_Eldad", 
+   "@type": "Person", 
+   "name": "Davidov, Eldad"
+  }, 
+  "Mutschke,_Peter": {
+   "occupations": {
+    "297": {
+     "function": "Studium ", 
+     "end_date": "1987", 
+     "institution_l1": {
+      "@id": "Georg-August-Universit\u00e4t_G\u00f6ttingen", 
+      "location": "G\u00f6ttingen", 
+      "name": "Georg-August-Universit\u00e4t G\u00f6ttingen"
+     }, 
+     "start_date": "1980", 
+     "source": "xing", 
+     "activity": "Universit\u00e4t G\u00f6ttingen", 
+     "@id": 297, 
+     "@type": "Occupation"
+    }, 
+    "298": {
+     "function": "Studium ", 
+     "end_date": "1989", 
+     "institution_l1": {
+      "@id": "Georg-August-Universit\u00e4t_G\u00f6ttingen", 
+      "location": "G\u00f6ttingen", 
+      "name": "Georg-August-Universit\u00e4t G\u00f6ttingen"
+     }, 
+     "start_date": "1988", 
+     "source": "xing", 
+     "activity": "Universit\u00e4t G\u00f6ttingen", 
+     "@id": 298, 
+     "@type": "Occupation"
+    }, 
+    "299": {
+     "function": "Kommissarischer Leiter", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften_Abt._Wissenstechnologien_f\u00fcr_Sozialwissenschaften", 
+      "location": "K\u00f6ln", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften Abt. Wissenstechnologien f\u00fcr Sozialwissenschaften"
+     }, 
+     "start_date": "2010", 
+     "source": "linkedin", 
+     "activity": "GESIS Leibniz-Institut fur Sozialwissenschaften in Koln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany", 
+     "@id": 299, 
+     "@type": "Occupation"
+    }, 
+    "300": {
+     "function": "Wissenschaftlicher Mitarbeiter", 
+     "end_date": "2010", 
+     "institution_l1": {}, 
+     "start_date": "1990", 
+     "source": "xing", 
+     "activity": "GESIS Leibniz-Institut fur Sozialwissenschaften in Koln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany", 
+     "@id": 300, 
+     "@type": "Occupation"
+    }, 
+    "301": {
+     "function": "Deputy Head of Department", 
+     "end_date": "2010", 
+     "institution_l1": {}, 
+     "start_date": "2009", 
+     "source": "linkedin", 
+     "activity": "GESIS Leibniz-Institut fur Sozialwissenschaften in Koln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany", 
+     "@id": 301, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Mutschke,_Peter", 
+   "@type": "Person", 
+   "name": "Mutschke, Peter"
+  }, 
+  "Hill,_Paul_B.": {
+   "occupations": {
+    "128": {
+     "function": "Prodekan f\u00fcr Forschung", 
+     "end_date": "2006", 
+     "institution_l1": {
+      "@id": "RWTH_Aachen", 
+      "name": "RWTH Aachen"
+     }, 
+     "start_date": "2004", 
+     "source": "Wikipedia", 
+     "activity": "RWTH Aachen", 
+     "@id": 128, 
+     "@type": "Occupation"
+    }, 
+    "129": {
+     "function": "Dekan", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "RWTH_Aachen", 
+      "name": "RWTH Aachen"
+     }, 
+     "start_date": "2006", 
+     "source": "Wikipedia", 
+     "activity": "RWTH Aachen", 
+     "@id": 129, 
+     "@type": "Occupation"
+    }, 
+    "130": {
+     "function": "Prodekan f\u00fcr Forschung", 
+     "institution_l1": {
+      "@id": "RWTH_Aachen", 
+      "name": "RWTH Aachen"
+     }, 
+     "start_date": "2013", 
+     "source": "Wikipedia", 
+     "activity": "RWTH Aachen", 
+     "@id": 130, 
+     "@type": "Occupation"
+    }, 
+    "131": {
+     "function": "Sprecher der Professoren", 
+     "end_date": "2017", 
+     "institution_l1": {
+      "@id": "RWTH_Aachen", 
+      "name": "RWTH Aachen"
+     }, 
+     "start_date": "2014", 
+     "source": "Wikipedia", 
+     "activity": "RWTH Aachen", 
+     "@id": 131, 
+     "@type": "Occupation"
+    }, 
+    "132": {
+     "function": "Prodekan f\u00fcr Forschung", 
+     "end_date": "2006", 
+     "institution_l1": {
+      "@id": "RWTH_Aachen_", 
+      "name": "RWTH Aachen "
+     }, 
+     "start_date": "2004", 
+     "source": "RWTH Aachen", 
+     "activity": "RWTH Aachen", 
+     "@id": 132, 
+     "@type": "Occupation"
+    }, 
+    "133": {
+     "function": "Dekan", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "RWTH_Aachen_", 
+      "name": "RWTH Aachen "
+     }, 
+     "start_date": "2006", 
+     "source": "RWTH Aachen", 
+     "activity": "RWTH Aachen", 
+     "@id": 133, 
+     "@type": "Occupation"
+    }, 
+    "134": {
+     "function": "Berufung zum Universit\u00e4tsprofessor", 
+     "institution_l1": {
+      "@id": "RWTH_Aachen,_Soziologie,_Schwerpunkt_empirische_Sozialforschung", 
+      "name": "RWTH Aachen, Soziologie, Schwerpunkt empirische Sozialforschung"
+     }, 
+     "start_date": "1997", 
+     "source": "Wikipedia", 
+     "activity": "RWTH Aachen", 
+     "@id": 134, 
+     "@type": "Occupation"
+    }, 
+    "135": {
+     "function": "Akademischer Oberrat", 
+     "end_date": "1997", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Trier", 
+      "name": "Universit\u00e4t Trier"
+     }, 
+     "start_date": "1990", 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Trier", 
+     "@id": 135, 
+     "@type": "Occupation"
+    }, 
+    "136": {
+     "function": "Akademischer Oberrat", 
+     "end_date": "1997", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Trier,_Soziologie", 
+      "name": "Universit\u00e4t Trier, Soziologie"
+     }, 
+     "start_date": "1990", 
+     "source": "RWTH Aachen", 
+     "activity": "Universit\u00e4t Trier", 
+     "@id": 136, 
+     "@type": "Occupation"
+    }, 
+    "111": {
+     "function": "Studium", 
+     "end_date": "1980", 
+     "institution_l1": {
+      "@id": "Institut_f\u00fcr_Soziologie_Lehrstuhl_Allgemeine_Soziologie", 
+      "location": "Aachen", 
+      "name": "Institut f\u00fcr Soziologie Lehrstuhl Allgemeine Soziologie"
+     }, 
+     "start_date": "1974", 
+     "source": "RWTH Aachen", 
+     "activity": "RWTH Aachen", 
+     "@id": 111, 
+     "@type": "Occupation"
+    }, 
+    "112": {
+     "function": "Promotion", 
+     "institution_l1": {}, 
+     "start_date": "1984", 
+     "source": "RWTH Aachen", 
+     "activity": "Promotion", 
+     "@id": 112, 
+     "@type": "Occupation"
+    }, 
+    "113": {
+     "function": "Wissenschaftlicher Mitarbeiter", 
+     "end_date": "1990", 
+     "institution_l1": {}, 
+     "start_date": "1980", 
+     "source": "RWTH Aachen", 
+     "activity": "Universit\u00e4ten Essen, Duisburg, Koeln", 
+     "@id": 113, 
+     "@type": "Occupation"
+    }, 
+    "114": {
+     "function": "Berufung zum Universit\u00e4tsprofessor", 
+     "institution_l1": {}, 
+     "start_date": "1997", 
+     "source": "RWTH Aachen", 
+     "activity": "Universit\u00e4tsprofessor", 
+     "@id": 114, 
+     "@type": "Occupation"
+    }, 
+    "115": {
+     "function": "1. Stellvertretender Vorsitzender der ASI - Arbeitsgemeinschaft Sozialwissenschaftlicher Institute e.V. ", 
+     "end_date": "2017", 
+     "institution_l1": {}, 
+     "start_date": "2005", 
+     "source": "RWTH Aachen", 
+     "activity": "1. Stellvertretender Vorsitzender der ASI ", 
+     "@id": 115, 
+     "@type": "Occupation"
+    }, 
+    "116": {
+     "function": "Mitglied in Komitee 260 beim Austrian Standards Institute: Spiegelkomitee innerhalb des ISO/TC 225: Market, Opinion and Social Research", 
+     "end_date": "2017", 
+     "institution_l1": {}, 
+     "start_date": "2009", 
+     "source": "RWTH Aachen", 
+     "activity": "Mitglied in Komitee 260", 
+     "@id": 116, 
+     "@type": "Occupation"
+    }, 
+    "117": {
+     "function": "Mitglied im Beschwerderat (zweite Kammer) des Rates der Deutschen Markt- und Sozialforschung (2. KAmmer)\n", 
+     "end_date": "2017", 
+     "institution_l1": {}, 
+     "start_date": "2009", 
+     "source": "RWTH Aachen", 
+     "activity": "Mitglied im Beschwerderat (zweite Kammer) des Rates der Deutschen Markt- und Sozialforschung", 
+     "@id": 117, 
+     "@type": "Occupation"
+    }, 
+    "118": {
+     "function": "Vorsitzender des Kuratoriums der GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften\n\n", 
+     "end_date": "2017", 
+     "institution_l1": {}, 
+     "start_date": "2013", 
+     "source": "RWTH Aachen", 
+     "activity": "Vorsitzender des Kuratoriums der GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften", 
+     "@id": 118, 
+     "@type": "Occupation"
+    }, 
+    "119": {
+     "function": "Studium", 
+     "institution_l1": {}, 
+     "source": "Wikipedia ", 
+     "activity": "Soziologie, Wirtschaftwissenschaften, Psychologie", 
+     "@id": 119, 
+     "@type": "Occupation"
+    }, 
+    "120": {
+     "function": "Dissertation", 
+     "institution_l1": {}, 
+     "start_date": "1984", 
+     "source": "WIkipedia", 
+     "activity": "Dissertation", 
+     "@id": 120, 
+     "@type": "Occupation"
+    }, 
+    "121": {
+     "function": "Wissenschaftlicher Mitarbeiter", 
+     "end_date": "1990", 
+     "institution_l1": {}, 
+     "start_date": "1980", 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4ten Essen, Duisburg, K\u00f6ln", 
+     "@id": 121, 
+     "@type": "Occupation"
+    }, 
+    "122": {
+     "function": "1. stellvertretender Vorsitzender der Arbeitsgemeinschaft Sozialwissenschaftlicher Institute e.V. (ASI)", 
+     "end_date": "2017", 
+     "institution_l1": {}, 
+     "start_date": "2005", 
+     "source": "Wikipedia", 
+     "activity": "1. stellvertretender Vorsitzender der Arbeitsgemeinschaft Sozialwissenschaftlicher Institute e.V. (ASI)", 
+     "@id": 122, 
+     "@type": "Occupation"
+    }, 
+    "123": {
+     "function": "Mitglied in Komitee 260 beim Austrian Standards Institute", 
+     "end_date": "2017", 
+     "institution_l1": {}, 
+     "start_date": "2009", 
+     "source": "Wikipedia", 
+     "activity": "Austrian Standards Institute", 
+     "@id": 123, 
+     "@type": "Occupation"
+    }, 
+    "124": {
+     "function": "Mitglied im Beschwerderat (zweite Kammer) des Rates der Deutschen Markt- und Sozialforschung", 
+     "end_date": "2017", 
+     "institution_l1": {}, 
+     "start_date": "2009", 
+     "source": "Wikipedia", 
+     "activity": "Rat der Deutschen Markt- und Sozialforschung", 
+     "@id": 124, 
+     "@type": "Occupation"
+    }, 
+    "125": {
+     "function": "Vorsitzender des Kuratoriums der GESIS \u2013 Leibniz-Institut f\u00fcr Sozialwissenschaften", 
+     "end_date": "2017", 
+     "institution_l1": {}, 
+     "start_date": "2013", 
+     "source": "Wikipedia", 
+     "activity": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften", 
+     "@id": 125, 
+     "@type": "Occupation"
+    }, 
+    "126": {
+     "function": "Prodekan f\u00fcr Forschung", 
+     "end_date": "2017", 
+     "institution_l1": {
+      "@id": "RWTH_Aachen", 
+      "name": "RWTH Aachen"
+     }, 
+     "start_date": "2013", 
+     "source": "RWTH Aachen", 
+     "activity": "RWTH Aachen", 
+     "@id": 126, 
+     "@type": "Occupation"
+    }, 
+    "127": {
+     "function": "Sprecher der Professoren", 
+     "end_date": "2017", 
+     "institution_l1": {
+      "@id": "RWTH_Aachen", 
+      "name": "RWTH Aachen"
+     }, 
+     "start_date": "2014", 
+     "source": "RWTH Aachen", 
+     "activity": "RWTH Aachen", 
+     "@id": 127, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Hill,_Paul_B.", 
+   "@type": "Person", 
+   "name": "Hill, Paul B."
+  }, 
+  "Stock\u00e9,_Volker": {
+   "occupations": {
+    "384": {
+     "function": "Habilitation", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "2009", 
+     "source": "https://www.uni-kassel.de/fb05/uploads/media/Stock%C3%A9_Lebenslauf_deutsch.pdf", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 384, 
+     "@type": "Occupation"
+    }, 
+    "385": {
+     "function": "ICPSR Summer School in Quantitative Methods of Social Research", 
+     "institution_l1": {
+      "@id": "University_of_Michigan", 
+      "location": "Ann Arbor", 
+      "name": "University of Michigan"
+     }, 
+     "start_date": "1996", 
+     "source": "https://www.uni-kassel.de/fb05/uploads/media/Stock%C3%A9_Lebenslauf_deutsch.pdf", 
+     "activity": " University of Michigan,\r\nAnn Arbor (USA)", 
+     "@id": 385, 
+     "@type": "Occupation"
+    }, 
+    "381": {
+     "function": "Studium", 
+     "end_date": "1994", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1987", 
+     "source": "https://www.uni-kassel.de/fb05/uploads/media/Stock%C3%A9_Lebenslauf_deutsch.pdf", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 381, 
+     "@type": "Occupation"
+    }, 
+    "382": {
+     "function": "Studium", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1994", 
+     "source": "https://www.uni-kassel.de/fb05/uploads/media/Stock%C3%A9_Lebenslauf_deutsch.pdf", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 382, 
+     "@type": "Occupation"
+    }, 
+    "383": {
+     "function": "Promotion", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "2001", 
+     "source": "https://www.uni-kassel.de/fb05/uploads/media/Stock%C3%A9_Lebenslauf_deutsch.pdf", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 383, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Stock\u00e9,_Volker", 
+   "@type": "Person", 
+   "name": "Stock\u00e9, Volker"
+  }, 
+  "Nonnenmacher,_Alexandra": {
+   "occupations": {
+    "302": {
+     "function": "Univ. Prof.", 
+     "institution_l1": {
+      "@id": "Fak._02_Bildung,_Architektur,_K\u00fcnste\r\nUniversit\u00e4t_Siegen", 
+      "location": "Siegen", 
+      "name": "Fak. 02 Bildung, Architektur, K\u00fcnste\r\nUniversit\u00e4t Siegen"
+     }, 
+     "source": "Universit\u00e4t Siegen", 
+     "activity": "Universit\u00e4t Siegen", 
+     "@id": 302, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Nonnenmacher,_Alexandra", 
+   "@type": "Person", 
+   "name": "Nonnenmacher, Alexandra"
+  }, 
+  "Schmitt-Beck,_R\u00fcdiger": {
+   "occupations": {
+    "367": {
+     "function": "Professor", 
+     "end_date": "2008", 
+     "institution_l1": {
+      "@id": "Institut_f\u00fcr_Politikwissenschaft", 
+      "location": "Duisburg", 
+      "name": "Institut f\u00fcr Politikwissenschaft"
+     }, 
+     "start_date": "2003", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Universit\u00e4t Duisburg-Essen", 
+     "@id": 367, 
+     "@type": "Occupation"
+    }, 
+    "368": {
+     "function": "Professor ", 
+     "institution_l1": {
+      "@id": "Lehrstuhl_f\u00fcr_Politische_Wissenschaft_I_Politische_Soziologie", 
+      "location": "Mannheim", 
+      "name": "Lehrstuhl f\u00fcr Politische Wissenschaft I Politische Soziologie"
+     }, 
+     "start_date": "2008", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 368, 
+     "@type": "Occupation"
+    }, 
+    "369": {
+     "function": "Wissenschaftlicher Mitarbeiter", 
+     "end_date": "1995", 
+     "institution_l1": {
+      "@id": "Mannheimer_Zentrum_f\u00fcr_Europ\u00e4ische_Sozialforschung_-MZES-", 
+      "location": "Mannheim", 
+      "name": "Mannheimer Zentrum f\u00fcr Europ\u00e4ische Sozialforschung -MZES-"
+     }, 
+     "start_date": "1990", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Mannheimer Zentrum f\u00fcr Europ\u00e4ische Sozialforschung (MZES)", 
+     "@id": 369, 
+     "@type": "Occupation"
+    }, 
+    "370": {
+     "function": "Visiting Fellow", 
+     "end_date": "2008", 
+     "institution_l1": {}, 
+     "start_date": "2007", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "University of Auckland, Neuseeland", 
+     "@id": 370, 
+     "@type": "Occupation"
+    }, 
+    "371": {
+     "function": "Visiting Fellow", 
+     "end_date": "2016", 
+     "institution_l1": {
+      "@id": "The_Australian_National_University_Canberra", 
+      "location": "Canberra", 
+      "name": "The Australian National University Canberra"
+     }, 
+     "start_date": "2015", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Australian National University, Canberra/Australien", 
+     "@id": 371, 
+     "@type": "Occupation"
+    }, 
+    "372": {
+     "function": "Wissenschaftlicher Assistent", 
+     "end_date": "1990", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Heidelberg", 
+      "location": "Heidelberg", 
+      "name": "Universit\u00e4t Heidelberg"
+     }, 
+     "start_date": "1988", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Universit\u00e4t Heidelberg", 
+     "@id": 372, 
+     "@type": "Occupation"
+    }, 
+    "373": {
+     "function": "Studium", 
+     "end_date": "1981", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1975", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 373, 
+     "@type": "Occupation"
+    }, 
+    "374": {
+     "function": "Wissenschaftlicher Mitarbeiter", 
+     "end_date": "1988", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1983", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 374, 
+     "@type": "Occupation"
+    }, 
+    "375": {
+     "function": "Promotion", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1989", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 375, 
+     "@type": "Occupation"
+    }, 
+    "376": {
+     "function": "Wissenschaftlicher Assistent", 
+     "end_date": "2000", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1995", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 376, 
+     "@type": "Occupation"
+    }, 
+    "377": {
+     "function": "Habilitation", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1999", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 377, 
+     "@type": "Occupation"
+    }, 
+    "378": {
+     "function": "Gastprofessor", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Z\u00fcrich", 
+      "location": "Z\u00fcrich", 
+      "name": "Universit\u00e4t Z\u00fcrich"
+     }, 
+     "start_date": "2002", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Universit\u00e4t Z\u00fcrich", 
+     "@id": 378, 
+     "@type": "Occupation"
+    }, 
+    "379": {
+     "function": "Visiting Research Scholar", 
+     "institution_l1": {
+      "@id": "University_of_British_Columbia_Vancouver", 
+      "location": "Vancouver", 
+      "name": "University of British Columbia Vancouver"
+     }, 
+     "start_date": "2016", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "University of British Columbia, Vancouver/Kanada", 
+     "@id": 379, 
+     "@type": "Occupation"
+    }, 
+    "380": {
+     "function": "Wissenschaftlicher Leiter", 
+     "end_date": "2003", 
+     "institution_l1": {
+      "@id": "Zentrum_f\u00fcr_Umfragen,_Methoden_und_Analysen", 
+      "location": "Mannheim", 
+      "name": "Zentrum f\u00fcr Umfragen, Methoden und Analysen"
+     }, 
+     "start_date": "2000", 
+     "source": "Universit\u00e4t Mannheim", 
+     "activity": "Zentrum f\u00fcr Umfragen, Methoden und Analysen (ZUMA), Mannheim", 
+     "@id": 380, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Schmitt-Beck,_R\u00fcdiger", 
+   "@type": "Person", 
+   "name": "Schmitt-Beck, R\u00fcdiger"
+  }, 
+  "Farago,_Peter": {
+   "occupations": {
+    "72": {
+     "function": "Leiter Kompetenzzentrum Sozialwissenschaften FORS in Lausanne", 
+     "institution_l1": {}, 
+     "start_date": "2016", 
+     "source": "FORS", 
+     "activity": "Kompetenzzentrum Sozialwissenschaften FORS in Lausanne", 
+     "@id": 72, 
+     "@type": "Occupation"
+    }, 
+    "73": {
+     "function": "Professor", 
+     "institution_l1": {
+      "@id": "Universit\u00e9_de_Lausanne", 
+      "location": "Lausanne", 
+      "name": "Universit\u00e9 de Lausanne"
+     }, 
+     "start_date": "2016", 
+     "source": "FORS", 
+     "activity": "Universit\u00e4t Lausanne", 
+     "@id": 73, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Farago,_Peter", 
+   "@type": "Person", 
+   "name": "Farago, Peter"
+  }, 
+  "Rittberger,_Marc": {
+   "occupations": {
+    "331": {
+     "function": "Aufbaustudium", 
+     "end_date": "1989", 
+     "institution_l1": {
+      "@id": "_Universit\u00e4t_Konstanz", 
+      "name": " Universit\u00e4t Konstanz"
+     }, 
+     "start_date": "1988", 
+     "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+     "activity": " Universit\u00e4t Konstanz", 
+     "@id": 331, 
+     "@type": "Occupation"
+    }, 
+    "332": {
+     "function": "Mitarbeiter", 
+     "end_date": "1994", 
+     "institution_l1": {
+      "@id": "_Universit\u00e4t_Konstanz", 
+      "name": " Universit\u00e4t Konstanz"
+     }, 
+     "start_date": "1989", 
+     "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+     "activity": "Universit\u00e4t Konstanz", 
+     "@id": 332, 
+     "@type": "Occupation"
+    }, 
+    "333": {
+     "function": "Professur ", 
+     "institution_l1": {
+      "@id": "Deutsches_Institut_f\u00fcr_Internationale_P\u00e4dagogische_Forschung", 
+      "location": "Frankfurt am Main", 
+      "name": "Deutsches Institut f\u00fcr Internationale P\u00e4dagogische Forschung"
+     }, 
+     "start_date": "2005", 
+     "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+     "activity": " DIPF", 
+     "@id": 333, 
+     "@type": "Occupation"
+    }, 
+    "334": {
+     "function": "Direktor ", 
+     "institution_l1": {
+      "@id": "Deutsches_Institut_f\u00fcr_Internationale_P\u00e4dagogische_Forschung", 
+      "location": "Frankfurt am Main", 
+      "name": "Deutsches Institut f\u00fcr Internationale P\u00e4dagogische Forschung"
+     }, 
+     "start_date": "2005", 
+     "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+     "activity": "DIPF", 
+     "@id": 334, 
+     "@type": "Occupation"
+    }, 
+    "335": {
+     "function": "Gesch\u00e4ftsf\u00fchrender Direktor", 
+     "end_date": "2012", 
+     "institution_l1": {
+      "@id": "Deutsches_Institut_f\u00fcr_Internationale_P\u00e4dagogische_Forschung", 
+      "location": "Frankfurt am Main", 
+      "name": "Deutsches Institut f\u00fcr Internationale P\u00e4dagogische Forschung"
+     }, 
+     "start_date": "2008", 
+     "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+     "activity": "DIPF", 
+     "@id": 335, 
+     "@type": "Occupation"
+    }, 
+    "336": {
+     "function": "Stellvertretender Gesch\u00e4ftsf\u00fchrender Direktor", 
+     "institution_l1": {
+      "@id": "Deutsches_Institut_f\u00fcr_Internationale_P\u00e4dagogische_Forschung", 
+      "location": "Frankfurt am Main", 
+      "name": "Deutsches Institut f\u00fcr Internationale P\u00e4dagogische Forschung"
+     }, 
+     "start_date": "2012", 
+     "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+     "activity": "DIPF", 
+     "@id": 336, 
+     "@type": "Occupation"
+    }, 
+    "337": {
+     "function": "Promotion", 
+     "institution_l1": {
+      "@id": "Fachbereich_Informatik_und_Informationswissenschaft\r\nUniversit\u00e4t_Konstanz", 
+      "location": "Konstanz", 
+      "name": "Fachbereich Informatik und Informationswissenschaft\r\nUniversit\u00e4t Konstanz"
+     }, 
+     "start_date": "1995", 
+     "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+     "activity": "Universit\u00e4t Konstanz", 
+     "@id": 337, 
+     "@type": "Occupation"
+    }, 
+    "338": {
+     "function": "Assistent ", 
+     "end_date": "2001", 
+     "institution_l1": {
+      "@id": "Fachbereich_Informatik_und_Informationswissenschaft\r\nUniversit\u00e4t_Konstanz", 
+      "location": "Konstanz", 
+      "name": "Fachbereich Informatik und Informationswissenschaft\r\nUniversit\u00e4t Konstanz"
+     }, 
+     "start_date": "1995", 
+     "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+     "activity": "Universit\u00e4t Konstanz", 
+     "@id": 338, 
+     "@type": "Occupation"
+    }, 
+    "339": {
+     "function": "Professur ", 
+     "end_date": "2005", 
+     "institution_l1": {
+      "@id": "Haute_\u00e9cole_de_Gen\u00e8ve_-HEG-_Haute_\u00e9cole_de_travail_social_-HETS-", 
+      "name": "Haute \u00e9cole de Gen\u00e8ve -HEG- Haute \u00e9cole de travail social -HETS-"
+     }, 
+     "start_date": "2002", 
+     "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+     "activity": "HEG Gen\u00e8ve", 
+     "@id": 339, 
+     "@type": "Occupation"
+    }, 
+    "340": {
+     "function": "Professur ", 
+     "institution_l1": {
+      "@id": "Hochschule_Darmstadt", 
+      "name": "Hochschule Darmstadt"
+     }, 
+     "start_date": "2005", 
+     "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+     "activity": "Hochschule Darmstadt", 
+     "@id": 340, 
+     "@type": "Occupation"
+    }, 
+    "341": {
+     "function": "Lehrstuhlvertretung ", 
+     "end_date": "2002", 
+     "institution_l1": {
+      "@id": "Institut_f\u00fcr_Sprache_und_Information_Abt._f\u00fcr_Informationswissenschaft\r\nPhilosophische_Fakult\u00e4t", 
+      "location": "D\u00fcsseldorf", 
+      "name": "Institut f\u00fcr Sprache und Information Abt. f\u00fcr Informationswissenschaft\r\nPhilosophische Fakult\u00e4t"
+     }, 
+     "start_date": "2001", 
+     "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+     "activity": " Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf", 
+     "@id": 341, 
+     "@type": "Occupation"
+    }, 
+    "342": {
+     "function": "Studium", 
+     "end_date": "1988", 
+     "institution_l1": {
+      "@id": "Karlsruher_Institut_f\u00fcr_Technologie", 
+      "location": "Karlsruhe", 
+      "name": "Karlsruher Institut f\u00fcr Technologie"
+     }, 
+     "start_date": "1981", 
+     "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+     "activity": " Universit\u00e4t Karlsruhe (TH)", 
+     "@id": 342, 
+     "@type": "Occupation"
+    }, 
+    "343": {
+     "function": "Stellvertretender Sprecher", 
+     "institution_l1": {}, 
+     "start_date": "2015", 
+     "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+     "activity": "Forschungsverbundes Science 2.0", 
+     "@id": 343, 
+     "@type": "Occupation"
+    }, 
+    "344": {
+     "function": "Leiter ", 
+     "end_date": "2002", 
+     "institution_l1": {
+      "@id": "Steinbeis-Transferzentrum_Angewandte_Systemanalyse_-STASA-", 
+      "location": "Stuttgart", 
+      "name": "Steinbeis-Transferzentrum Angewandte Systemanalyse -STASA-"
+     }, 
+     "start_date": "2000", 
+     "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+     "activity": "Steinbeis-Transferzentrum IMIE", 
+     "@id": 344, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Rittberger,_Marc", 
+   "@type": "Person", 
+   "name": "Rittberger, Marc"
+  }, 
+  "Japec,_Lilli": {
+   "occupations": {
+    "201": {
+     "function": "Quality Director", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "Statistics_Sweden", 
+      "location": "Stockholm", 
+      "name": "Statistics Sweden"
+     }, 
+     "start_date": "2008", 
+     "source": "linkedin", 
+     "activity": "Statistics Sweden, Stockholm", 
+     "@id": 201, 
+     "@type": "Occupation"
+    }, 
+    "202": {
+     "function": "Director R&D Department", 
+     "end_date": "2015", 
+     "institution_l1": {
+      "@id": "Statistics_Sweden", 
+      "location": "Stockholm", 
+      "name": "Statistics Sweden"
+     }, 
+     "start_date": "2010", 
+     "source": "linkedin", 
+     "activity": "Statistics Sweden, Stockholm", 
+     "@id": 202, 
+     "@type": "Occupation"
+    }, 
+    "203": {
+     "function": "Scientific Advisor, Executive Office,", 
+     "institution_l1": {
+      "@id": "Statistics_Sweden", 
+      "location": "Stockholm", 
+      "name": "Statistics Sweden"
+     }, 
+     "start_date": "2017", 
+     "source": "linkedin", 
+     "activity": "Statistics Sweden, Stockholm", 
+     "@id": 203, 
+     "@type": "Occupation"
+    }, 
+    "204": {
+     "function": "Education", 
+     "institution_l1": {
+      "@id": "Stockholm_University", 
+      "location": "Stockholm", 
+      "name": "Stockholm University"
+     }, 
+     "start_date": "2005", 
+     "source": "Mathematics Genealogy Project", 
+     "activity": "Universit\u00e4t Stockholm", 
+     "@id": 204, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Japec,_Lilli", 
+   "@type": "Person", 
+   "name": "Japec, Lilli"
+  }, 
+  "Hochman,_Oshrat": {
+   "occupations": {
+    "137": {
+     "function": "Scientific Director", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften_Abt._Dauerbeobachtung_der_Gesellschaft,_Kompetenzzentrum_Frauen_in_Wissenschaft_und_Forschung", 
+      "location": "K\u00f6ln", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften Abt. Dauerbeobachtung der Gesellschaft, Kompetenzzentrum Frauen in Wissenschaft und Forschung"
+     }, 
+     "start_date": "2015", 
+     "source": "linkedin", 
+     "activity": "GESIS Leibniz-Institut fur Sozialwissenschaften in Koln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany", 
+     "@id": 137, 
+     "@type": "Occupation"
+    }, 
+    "138": {
+     "function": "Lecturer & Researcher", 
+     "end_date": "2015", 
+     "institution_l1": {}, 
+     "start_date": "2012", 
+     "source": "linkedin", 
+     "activity": "Ruppin Academic Center", 
+     "@id": 138, 
+     "@type": "Occupation"
+    }, 
+    "139": {
+     "function": "Post Doctorate", 
+     "end_date": "2012", 
+     "institution_l1": {
+      "@id": "Tel_Aviv_University", 
+      "location": "Tel Aviv", 
+      "name": "Tel Aviv University"
+     }, 
+     "start_date": "2011", 
+     "source": "linkedin", 
+     "activity": "Tel Aviv University ", 
+     "@id": 139, 
+     "@type": "Occupation"
+    }, 
+    "140": {
+     "function": "PhD", 
+     "end_date": "2010", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "2007", 
+     "source": "linkedin", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 140, 
+     "@type": "Occupation"
+    }, 
+    "141": {
+     "function": "Studium ", 
+     "institution_l1": {
+      "@id": "University_of_Haifa", 
+      "location": "Haifa", 
+      "name": "University of Haifa"
+     }, 
+     "source": "linkedin", 
+     "activity": "University of Haifa", 
+     "@id": 141, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Hochman,_Oshrat", 
+   "@type": "Person", 
+   "name": "Hochman, Oshrat"
+  }, 
+  "Katsanidou,_Alexia": {
+   "occupations": {
+    "208": {
+     "function": "Promotion", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Essex_Colchester", 
+      "name": "Universit\u00e4t Essex Colchester"
+     }, 
+     "start_date": "2008", 
+     "source": "http://www.gesis.org/en/institute/staff/?name=alexia%2Ckatsanidou", 
+     "activity": "Universit\u00e4t Essex", 
+     "@id": 208, 
+     "@type": "Occupation"
+    }, 
+    "205": {
+     "function": "Leitung", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften_Abt._Datenarchiv_f\u00fcr_Sozialwissenschaften", 
+      "location": "K\u00f6ln", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften Abt. Datenarchiv f\u00fcr Sozialwissenschaften"
+     }, 
+     "start_date": "2015", 
+     "source": "http://www.gesis.org/en/institute/staff/?name=alexia%2Ckatsanidou", 
+     "activity": "GESIS", 
+     "@id": 205, 
+     "@type": "Occupation"
+    }, 
+    "206": {
+     "function": "MA in Vergleichende Demokratisierun", 
+     "institution_l1": {}, 
+     "start_date": "2003", 
+     "source": "http://www.gesis.org/en/institute/staff/?name=alexia%2Ckatsanidou", 
+     "@id": 206, 
+     "@type": "Occupation"
+    }, 
+    "207": {
+     "function": "Studium Internationale Politik und Wirtschaft", 
+     "institution_l1": {}, 
+     "source": "http://www.gesis.org/en/institute/staff/?name=alexia%2Ckatsanidou", 
+     "activity": "Universit\u00e4t Mazedonien, Griechenland", 
+     "@id": 207, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Katsanidou,_Alexia", 
+   "@type": "Person", 
+   "name": "Katsanidou, Alexia"
+  }, 
+  "Blossfeld,_Hans-Peter": {
+   "occupations": {
+    "0": {
+     "source": "Uni Bamberg", 
+     "@id": 0, 
+     "@type": "Occupation", 
+     "institution_l1": {
+      "@id": "Bamberg_Graduate_School_of_Social_Sciences", 
+      "location": "Bamberg", 
+      "name": "Bamberg Graduate School of Social Sciences"
+     }, 
+     "activity": "Universit\u00e4t Bamberg"
+    }, 
+    "1": {
+     "source": "Google Scholar", 
+     "@id": 1, 
+     "@type": "Occupation", 
+     "institution_l1": {
+      "@id": "European_University_Institute_(San_Domenico_di_Fiesole)", 
+      "name": "European University Institute (San Domenico di Fiesole)"
+     }, 
+     "activity": "European University Institute (EUI)"
+    }, 
+    "2": {
+     "function": "Professor und Chair in Political and Social Sciences\u00a0", 
+     "end_date": "1992", 
+     "institution_l1": {
+      "@id": "European_University_Institute_(San_Domenico_di_Fiesole)", 
+      "name": "European University Institute (San Domenico di Fiesole)"
+     }, 
+     "start_date": "1989", 
+     "source": "Wikipedia", 
+     "activity": "European University Institute (EUI)", 
+     "@id": 2, 
+     "@type": "Occupation"
+    }, 
+    "3": {
+     "function": "Professor und Chair of Sociology", 
+     "institution_l1": {
+      "@id": "European_University_Institute_(San_Domenico_di_Fiesole)", 
+      "name": "European University Institute (San Domenico di Fiesole)"
+     }, 
+     "start_date": "2012", 
+     "source": "Wikipedia", 
+     "activity": "European University Institute", 
+     "@id": 3, 
+     "@type": "Occupation"
+    }, 
+    "4": {
+     "institution_l1": {
+      "@id": "Freie_Universit\u00e4t_Berlin", 
+      "location": "Berlin", 
+      "name": "Freie Universit\u00e4t Berlin"
+     }, 
+     "@type": "Occupation", 
+     "source": "European University Institute (San Domenico di Fiesole)", 
+     "activity": "Freie Universit\u00e4t Berlin", 
+     "@id": 4, 
+     "start_date": "1987"
+    }, 
+    "5": {
+     "end_date": "1992", 
+     "institution_l1": {
+      "@id": "Max-Planck-Institut_f\u00fcr_Bildungsforschung", 
+      "location": "Berlin", 
+      "name": "Max-Planck-Institut f\u00fcr Bildungsforschung"
+     }, 
+     "start_date": "1984", 
+     "source": "Wikipedia", 
+     "activity": "Max-Planck-Institut f\u00fcr Bildungsforschung (Berlin)", 
+     "@id": 5, 
+     "@type": "Occupation"
+    }, 
+    "6": {
+     "function": "Fellow", 
+     "end_date": "1989", 
+     "institution_l1": {}, 
+     "start_date": "1988", 
+     "source": "Wikipedia", 
+     "activity": "Netherlands Institute for Advanced Study in the Humanities and Social Sciences", 
+     "@id": 6, 
+     "@type": "Occupation"
+    }, 
+    "7": {
+     "function": "Direktor", 
+     "end_date": "2012", 
+     "institution_l1": {}, 
+     "start_date": "2008", 
+     "source": "Wikipedia", 
+     "activity": "Institut f\u00fcr bildungswissenschaftliche L\u00e4ngsschnittstudien (ifb)", 
+     "@id": 7, 
+     "@type": "Occupation"
+    }, 
+    "8": {
+     "function": "Gr\u00fcnder und Leiter", 
+     "end_date": "2008", 
+     "institution_l1": {}, 
+     "start_date": "2006", 
+     "source": "Wikipedia", 
+     "activity": "Nationales Bildungspanel (NEPS)", 
+     "@id": 8, 
+     "@type": "Occupation"
+    }, 
+    "9": {
+     "source": "Google Scholar", 
+     "@id": 9, 
+     "@type": "Occupation", 
+     "institution_l1": {
+      "@id": "Otto-Friedrich-Universit\u00e4t_Bamberg", 
+      "location": "Bamberg", 
+      "name": "Otto-Friedrich-Universit\u00e4t Bamberg"
+     }, 
+     "activity": "Universit\u00e4t Bamberg"
+    }, 
+    "10": {
+     "function": "Lehrstuhl f\u00fcr Soziologie I", 
+     "institution_l1": {
+      "@id": "Otto-Friedrich-Universit\u00e4t_Bamberg", 
+      "location": "Bamberg", 
+      "name": "Otto-Friedrich-Universit\u00e4t Bamberg"
+     }, 
+     "start_date": "2002", 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Bamberg", 
+     "@id": 10, 
+     "@type": "Occupation"
+    }, 
+    "11": {
+     "function": "Leiter", 
+     "end_date": "2012", 
+     "institution_l1": {
+      "@id": "Staatsinstitut_f\u00fcr_Familienforschung_an_der_Universit\u00e4t_Bamberg", 
+      "location": "Bamberg", 
+      "name": "Staatsinstitut f\u00fcr Familienforschung an der Universit\u00e4t Bamberg"
+     }, 
+     "start_date": "2003", 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Bamberg", 
+     "@id": 11, 
+     "@type": "Occupation"
+    }, 
+    "12": {
+     "function": "Lehrstuhlinhaber f\u00fcr Allgemeine Soziologie, insbesondere Theorie und Empirie von Sozialstrukturen und Wirtschaftssystemen", 
+     "end_date": "2002", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bielefeld", 
+      "location": "Bielefeld", 
+      "name": "Universit\u00e4t Bielefeld"
+     }, 
+     "start_date": "1998", 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Bielefeld", 
+     "@id": 12, 
+     "@type": "Occupation"
+    }, 
+    "13": {
+     "function": "Lehrstuhlinhaber f\u00fcr Statistik und Methoden der empirischen Sozialforschung", 
+     "end_date": "1998", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bremen", 
+      "location": "Bremen", 
+      "name": "Universit\u00e4t Bremen"
+     }, 
+     "start_date": "1992", 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Bremen", 
+     "@id": 13, 
+     "@type": "Occupation"
+    }, 
+    "14": {
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "@type": "Occupation", 
+     "source": "European University Institute (San Domenico di Fiesole)", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 14, 
+     "start_date": "1984"
+    }, 
+    "15": {
+     "function": "VASMA-Projekt", 
+     "end_date": "1984", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1980", 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 15, 
+     "@type": "Occupation"
+    }, 
+    "16": {
+     "end_date": "1980", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Regensburg", 
+      "location": "Regensburg", 
+      "name": "Universit\u00e4t Regensburg"
+     }, 
+     "start_date": "1976", 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Regensburg (Regensburg)", 
+     "@id": 16, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Blossfeld,_Hans-Peter", 
+   "@type": "Person", 
+   "name": "Blossfeld, Hans-Peter"
+  }, 
+  "Fortin-Rittberger,_Jessica": {
+   "occupations": {
+    "96": {
+     "function": "Education", 
+     "institution_l1": {}, 
+     "start_date": "1999", 
+     "source": "http://jessica-fortin.weebly.com/about.html", 
+     "activity": "Universit\u00e4t Montreal", 
+     "@id": 96, 
+     "@type": "Occupation"
+    }, 
+    "97": {
+     "function": "Education", 
+     "institution_l1": {}, 
+     "start_date": "2001", 
+     "source": "http://jessica-fortin.weebly.com/about.html", 
+     "activity": "Universit\u00e4t Montreal", 
+     "@id": 97, 
+     "@type": "Occupation"
+    }, 
+    "98": {
+     "function": "Chair fo Comparative Government (visiting)", 
+     "end_date": "2011", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "2010", 
+     "source": "linkedin", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 98, 
+     "@type": "Occupation"
+    }, 
+    "99": {
+     "function": "Lehrstuhlvertretung", 
+     "end_date": "2011", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "2010", 
+     "source": "Universit\u00e4t Salzburg", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 99, 
+     "@type": "Occupation"
+    }, 
+    "100": {
+     "function": "Chair fo Comparative Government (visiting)", 
+     "end_date": "2011", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "2010", 
+     "source": "http://jessica-fortin.weebly.com/about.html", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 100, 
+     "@type": "Occupation"
+    }, 
+    "101": {
+     "source": "Scopus", 
+     "@id": 101, 
+     "@type": "Occupation", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Salzburg", 
+      "location": "Salzburg", 
+      "name": "Universit\u00e4t Salzburg"
+     }, 
+     "activity": "Universit\u00e4t Salzburg"
+    }, 
+    "102": {
+     "function": "Professor", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Salzburg", 
+      "location": "Salzburg", 
+      "name": "Universit\u00e4t Salzburg"
+     }, 
+     "start_date": "2013", 
+     "source": "linkedin", 
+     "activity": "Universit\u00e4t Salzburg", 
+     "@id": 102, 
+     "@type": "Occupation"
+    }, 
+    "103": {
+     "function": "Professorin", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Salzburg", 
+      "location": "Salzburg", 
+      "name": "Universit\u00e4t Salzburg"
+     }, 
+     "source": "Universit\u00e4t Salzburg", 
+     "activity": "Universit\u00e4t Salzburg", 
+     "@id": 103, 
+     "@type": "Occupation"
+    }, 
+    "104": {
+     "function": "Professor of Comparative Politics", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Salzburg", 
+      "location": "Salzburg", 
+      "name": "Universit\u00e4t Salzburg"
+     }, 
+     "start_date": "2013", 
+     "source": "http://jessica-fortin.weebly.com/about.html", 
+     "activity": "Universit\u00e4t Salzburg", 
+     "@id": 104, 
+     "@type": "Occupation"
+    }, 
+    "87": {
+     "function": "Senior Research Associate", 
+     "end_date": "2013", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften", 
+      "location": "Mannheim", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+     }, 
+     "start_date": "2009", 
+     "source": "linkedin", 
+     "activity": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften", 
+     "@id": 87, 
+     "@type": "Occupation"
+    }, 
+    "88": {
+     "function": "Senior Researcher", 
+     "end_date": "2013", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften", 
+      "location": "Mannheim", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+     }, 
+     "start_date": "2009", 
+     "source": "Universit\u00e4t Salzburg", 
+     "activity": "GESIS-Leibniz Institut f\u00fcr Sozialwissenschaften in Mannheim", 
+     "@id": 88, 
+     "@type": "Occupation"
+    }, 
+    "89": {
+     "function": "Senior Research Associate", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften", 
+      "location": "Mannheim", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+     }, 
+     "source": "http://jessica-fortin.weebly.com/about.html", 
+     "activity": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften", 
+     "@id": 89, 
+     "@type": "Occupation"
+    }, 
+    "90": {
+     "function": "Post-doctoral Research Fellow", 
+     "end_date": "2009", 
+     "institution_l1": {
+      "@id": "Leuphana_Universit\u00e4t_L\u00fcneburg", 
+      "location": "L\u00fcneburg", 
+      "name": "Leuphana Universit\u00e4t L\u00fcneburg"
+     }, 
+     "start_date": "2008", 
+     "source": "linkedin", 
+     "activity": "Leuphana Universit\u00e4t L\u00fcneburg", 
+     "@id": 90, 
+     "@type": "Occupation"
+    }, 
+    "91": {
+     "function": "Postdoc-Stipendium ", 
+     "institution_l1": {
+      "@id": "Leuphana_Universit\u00e4t_L\u00fcneburg", 
+      "location": "L\u00fcneburg", 
+      "name": "Leuphana Universit\u00e4t L\u00fcneburg"
+     }, 
+     "source": "Universit\u00e4t Salzburg", 
+     "activity": "Universit\u00e4t L\u00fcneburg", 
+     "@id": 91, 
+     "@type": "Occupation"
+    }, 
+    "92": {
+     "function": "Ausbildung", 
+     "end_date": "2008", 
+     "institution_l1": {
+      "@id": "McGill_University_Montreal", 
+      "location": "Montreal", 
+      "name": "McGill University Montreal"
+     }, 
+     "start_date": "2001", 
+     "source": "linkedin", 
+     "activity": "McGill University", 
+     "@id": 92, 
+     "@type": "Occupation"
+    }, 
+    "93": {
+     "function": "Promotion", 
+     "institution_l1": {
+      "@id": "McGill_University_Montreal", 
+      "location": "Montreal", 
+      "name": "McGill University Montreal"
+     }, 
+     "start_date": "2008", 
+     "source": "Universit\u00e4t Salzburg", 
+     "activity": "McGill University", 
+     "@id": 93, 
+     "@type": "Occupation"
+    }, 
+    "94": {
+     "function": "Education", 
+     "institution_l1": {
+      "@id": "McGill_University_Montreal", 
+      "location": "Montreal", 
+      "name": "McGill University Montreal"
+     }, 
+     "start_date": "2008", 
+     "source": "http://jessica-fortin.weebly.com/about.html", 
+     "activity": "McGill University", 
+     "@id": 94, 
+     "@type": "Occupation"
+    }, 
+    "95": {
+     "function": "Ausbildung", 
+     "end_date": "2001", 
+     "institution_l1": {}, 
+     "start_date": "1999", 
+     "source": "linkedin", 
+     "activity": "Universit\u00e4t Montreal", 
+     "@id": 95, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Fortin-Rittberger,_Jessica", 
+   "@type": "Person", 
+   "name": "Fortin-Rittberger, Jessica"
+  }, 
+  "J\u00e4ckle,_Annette": {
+   "occupations": {
+    "142": {
+     "function": "Employment \r", 
+     "end_date": "2016", 
+     "institution_l1": {
+      "@id": "FB_Geschichte_und_Soziologie_Fach_Soziologie\r\nGeisteswissenschaftliche_Sektion", 
+      "location": "Konstanz", 
+      "name": "FB Geschichte und Soziologie Fach Soziologie\r\nGeisteswissenschaftliche Sektion"
+     }, 
+     "start_date": "2016", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": "University of Konstanz", 
+     "@id": 142, 
+     "@type": "Occupation"
+    }, 
+    "143": {
+     "function": "Professional Service ", 
+     "institution_l1": {
+      "@id": "GESIS_-_Leibniz-Institut_f\u00fcr_Sozialwissenschaften", 
+      "location": "Mannheim", 
+      "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+     }, 
+     "start_date": "2016", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": " GESIS-Leibniz Institute\nfor the Social Sciences", 
+     "@id": 143, 
+     "@type": "Occupation"
+    }, 
+    "144": {
+     "function": "Education", 
+     "end_date": "2000", 
+     "institution_l1": {}, 
+     "start_date": "1996", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": " Fachhochschule Regensburg", 
+     "@id": 144, 
+     "@type": "Occupation"
+    }, 
+    "145": {
+     "function": "Education", 
+     "end_date": "2000", 
+     "institution_l1": {}, 
+     "start_date": "1996", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": "Sup de Co La Rochelle, France ", 
+     "@id": 145, 
+     "@type": "Occupation"
+    }, 
+    "146": {
+     "function": "Professional Service ", 
+     "institution_l1": {}, 
+     "start_date": "2007", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": "Founding member of the scientific committee for the international Panel\r\nSurvey Methods Workshop ", 
+     "@id": 146, 
+     "@type": "Occupation"
+    }, 
+    "147": {
+     "function": "Professional Service ", 
+     "institution_l1": {}, 
+     "start_date": "2017", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": "U.S. National Academy of Sciences", 
+     "@id": 147, 
+     "@type": "Occupation"
+    }, 
+    "148": {
+     "function": "Professional Service ", 
+     "institution_l1": {
+      "@id": "Statistics_Sweden,_Stockholm", 
+      "name": "Statistics Sweden, Stockholm"
+     }, 
+     "start_date": "2017", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": " Scientific Advisory Board of Statistics Sweden ", 
+     "@id": 148, 
+     "@type": "Occupation"
+    }, 
+    "149": {
+     "function": "Education", 
+     "end_date": "2001", 
+     "institution_l1": {
+      "@id": "University_of_Essex_Colchester", 
+      "name": "University of Essex Colchester"
+     }, 
+     "start_date": "2000", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": "University of Essex", 
+     "@id": 149, 
+     "@type": "Occupation"
+    }, 
+    "150": {
+     "function": "Education", 
+     "end_date": "2002", 
+     "institution_l1": {
+      "@id": "University_of_Essex_Colchester", 
+      "name": "University of Essex Colchester"
+     }, 
+     "start_date": "2001", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": "University of Essex ", 
+     "@id": 150, 
+     "@type": "Occupation"
+    }, 
+    "151": {
+     "function": "Education", 
+     "end_date": "2008", 
+     "institution_l1": {
+      "@id": "University_of_Essex_Colchester", 
+      "name": "University of Essex Colchester"
+     }, 
+     "start_date": "2003", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": "University of Essex ", 
+     "@id": 151, 
+     "@type": "Occupation"
+    }, 
+    "152": {
+     "function": "Employment \r", 
+     "end_date": "2007", 
+     "institution_l1": {
+      "@id": "University_of_Essex_Colchester", 
+      "name": "University of Essex Colchester"
+     }, 
+     "start_date": "2003", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": " University of Essex", 
+     "@id": 152, 
+     "@type": "Occupation"
+    }, 
+    "153": {
+     "function": "Employment \r", 
+     "end_date": "2012", 
+     "institution_l1": {
+      "@id": "University_of_Essex_Colchester", 
+      "name": "University of Essex Colchester"
+     }, 
+     "start_date": "2007", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": " University of Essex", 
+     "@id": 153, 
+     "@type": "Occupation"
+    }, 
+    "154": {
+     "function": "Employment \r", 
+     "institution_l1": {
+      "@id": "University_of_Essex_Colchester", 
+      "name": "University of Essex Colchester"
+     }, 
+     "start_date": "2011", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": " University of Essex", 
+     "@id": 154, 
+     "@type": "Occupation"
+    }, 
+    "155": {
+     "function": "Employment \r", 
+     "end_date": "2016", 
+     "institution_l1": {
+      "@id": "University_of_Essex_Colchester", 
+      "name": "University of Essex Colchester"
+     }, 
+     "start_date": "2012", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": " University of Essex", 
+     "@id": 155, 
+     "@type": "Occupation"
+    }, 
+    "156": {
+     "function": "Employment \r", 
+     "institution_l1": {
+      "@id": "University_of_Essex_Colchester", 
+      "name": "University of Essex Colchester"
+     }, 
+     "start_date": "2015", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": " University of Essex", 
+     "@id": 156, 
+     "@type": "Occupation"
+    }, 
+    "157": {
+     "function": "Employment \r", 
+     "institution_l1": {
+      "@id": "University_of_Essex_Colchester", 
+      "name": "University of Essex Colchester"
+     }, 
+     "start_date": "2016", 
+     "source": "https://www.iser.essex.ac.uk/people/aejack", 
+     "activity": " University of Essex", 
+     "@id": 157, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "J\u00e4ckle,_Annette", 
+   "@type": "Person", 
+   "name": "J\u00e4ckle, Annette"
+  }, 
+  "Fitzenberger,_Bernd": {
+   "occupations": {
+    "74": {
+     "function": "Professor", 
+     "end_date": "2007", 
+     "institution_l1": {
+      "@id": "Goethe-Universit\u00e4t_Frankfurt", 
+      "location": "Frankfurt am Main", 
+      "name": "Goethe-Universit\u00e4t Frankfurt"
+     }, 
+     "start_date": "2004", 
+     "source": "HU Berlin", 
+     "activity": "Goethe-Universit\u00e4t Frankfurt", 
+     "@id": 74, 
+     "@type": "Occupation"
+    }, 
+    "75": {
+     "function": "Professor", 
+     "end_date": "2015", 
+     "institution_l1": {
+      "@id": "Institut_f\u00fcr_Allgemeine_Wirtschaftsforschung_Abt._Empirische_Wirtschaftsforschung_und_\u00d6konometrie", 
+      "location": "Freiburg im Breisgau", 
+      "name": "Institut f\u00fcr Allgemeine Wirtschaftsforschung Abt. Empirische Wirtschaftsforschung und \u00d6konometrie"
+     }, 
+     "start_date": "2007", 
+     "source": "HU Berlin", 
+     "activity": "Albert-Ludwigs-Universit\u00e4t Freiburg ", 
+     "@id": 75, 
+     "@type": "Occupation"
+    }, 
+    "76": {
+     "function": "Professor", 
+     "institution_l1": {
+      "@id": "Institut_f\u00fcr_Statistik_und_\u00d6konometrie", 
+      "location": "Berlin", 
+      "name": "Institut f\u00fcr Statistik und \u00d6konometrie"
+     }, 
+     "start_date": "2015", 
+     "source": "HU Berlin", 
+     "activity": "Humboldt-Universit\u00e4t Berlin", 
+     "@id": 76, 
+     "@type": "Occupation"
+    }, 
+    "77": {
+     "function": "Studium", 
+     "end_date": "1991", 
+     "institution_l1": {
+      "@id": "Stanford_University", 
+      "location": "Stanford", 
+      "name": "Stanford University"
+     }, 
+     "start_date": "1991", 
+     "source": "HU Berlin", 
+     "activity": "Stanford University", 
+     "@id": 77, 
+     "@type": "Occupation"
+    }, 
+    "78": {
+     "function": "Promotion", 
+     "end_date": "1993", 
+     "institution_l1": {
+      "@id": "Stanford_University", 
+      "location": "Stanford", 
+      "name": "Stanford University"
+     }, 
+     "start_date": "1989", 
+     "source": "HU Berlin", 
+     "activity": "Stanford University", 
+     "@id": 78, 
+     "@type": "Occupation"
+    }, 
+    "79": {
+     "function": "Forschungsassistent und Assistent in der Lehre", 
+     "end_date": "1993", 
+     "institution_l1": {
+      "@id": "Stanford_University", 
+      "location": "Stanford", 
+      "name": "Stanford University"
+     }, 
+     "start_date": "1989", 
+     "source": "HU Berlin", 
+     "activity": "Stanford University", 
+     "@id": 79, 
+     "@type": "Occupation"
+    }, 
+    "80": {
+     "function": "Professor", 
+     "end_date": "1999", 
+     "institution_l1": {
+      "@id": "Technische_Universit\u00e4t_Dresden", 
+      "location": "Dresden", 
+      "name": "Technische Universit\u00e4t Dresden"
+     }, 
+     "start_date": "1998", 
+     "source": "HU Berlin", 
+     "activity": "Technische Universit\u00e4t Dresden", 
+     "@id": 80, 
+     "@type": "Occupation"
+    }, 
+    "81": {
+     "function": "Studium", 
+     "end_date": "1989", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Konstanz", 
+      "location": "Konstanz", 
+      "name": "Universit\u00e4t Konstanz"
+     }, 
+     "start_date": "1982", 
+     "source": "HU Berlin", 
+     "activity": "Universit\u00e4t Konstanz ", 
+     "@id": 81, 
+     "@type": "Occupation"
+    }, 
+    "82": {
+     "function": "Studium", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Konstanz", 
+      "location": "Konstanz", 
+      "name": "Universit\u00e4t Konstanz"
+     }, 
+     "start_date": "1987", 
+     "source": "HU Berlin", 
+     "activity": "Universit\u00e4t Konstanz ", 
+     "@id": 82, 
+     "@type": "Occupation"
+    }, 
+    "83": {
+     "function": "Studium", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Konstanz", 
+      "location": "Konstanz", 
+      "name": "Universit\u00e4t Konstanz"
+     }, 
+     "start_date": "1989", 
+     "source": "HU Berlin", 
+     "activity": "Universit\u00e4t Konstanz ", 
+     "@id": 83, 
+     "@type": "Occupation"
+    }, 
+    "84": {
+     "function": "Wissenschaftlichr Mitarbeiter", 
+     "end_date": "1996", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Konstanz", 
+      "location": "Konstanz", 
+      "name": "Universit\u00e4t Konstanz"
+     }, 
+     "start_date": "1993", 
+     "source": "HU Berlin", 
+     "activity": "Universit\u00e4t Konstanz ", 
+     "@id": 84, 
+     "@type": "Occupation"
+    }, 
+    "85": {
+     "function": "Habilitation", 
+     "end_date": "1998", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Konstanz", 
+      "location": "Konstanz", 
+      "name": "Universit\u00e4t Konstanz"
+     }, 
+     "start_date": "1993", 
+     "source": "HU Berlin", 
+     "activity": "Universit\u00e4t Konstanz ", 
+     "@id": 85, 
+     "@type": "Occupation"
+    }, 
+    "86": {
+     "function": "Professor", 
+     "end_date": "2004", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Mannheim", 
+      "location": "Mannheim", 
+      "name": "Universit\u00e4t Mannheim"
+     }, 
+     "start_date": "1999", 
+     "source": "HU Berlin", 
+     "activity": "Universit\u00e4t Mannheim", 
+     "@id": 86, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Fitzenberger,_Bernd", 
+   "@type": "Person", 
+   "name": "Fitzenberger, Bernd"
+  }, 
+  "Kleinert,_Corinna": {
+   "occupations": {
+    "209": {
+     "function": "Wissenschaftliche Mitarbeiterin", 
+     "institution_l1": {
+      "@id": "Institut_f\u00fcr_Arbeitsmarkt-_und_Berufsforschung", 
+      "location": "IAB", 
+      "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung"
+     }, 
+     "start_date": "2003", 
+     "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+     "activity": " Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB), N\u00fcrnberg", 
+     "@id": 209, 
+     "@type": "Occupation"
+    }, 
+    "210": {
+     "function": "Kommissarische Leitung des Forschungsbereichs Bildungs- und\r\nErwerbsverl\u00e4ufe", 
+     "end_date": "2008", 
+     "institution_l1": {
+      "@id": "Institut_f\u00fcr_Arbeitsmarkt-_und_Berufsforschung", 
+      "location": "IAB", 
+      "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung"
+     }, 
+     "start_date": "2007", 
+     "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+     "activity": " Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB), N\u00fcrnberg", 
+     "@id": 210, 
+     "@type": "Occupation"
+    }, 
+    "211": {
+     "function": "Wissenschaftliche Referentin in der Abteilung \u201aJugend und Politik", 
+     "end_date": "2000", 
+     "institution_l1": {
+      "@id": "Deutsches\r\nJugendinstitut", 
+      "location": "DJI", 
+      "name": "Deutsches\r\nJugendinstitut"
+     }, 
+     "start_date": "1995", 
+     "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+     "activity": "Deutsches\nJugendinstitut (DJI), M\u00fcnchen", 
+     "@id": 211, 
+     "@type": "Occupation"
+    }, 
+    "212": {
+     "function": "Qualifizierung\r", 
+     "institution_l1": {
+      "@id": "Ludwig-Maximilians-Universit\u00e4t_M\u00fcnchen", 
+      "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+     }, 
+     "start_date": "1995", 
+     "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+     "activity": "Ludwigs-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "@id": 212, 
+     "@type": "Occupation"
+    }, 
+    "213": {
+     "function": "Qualifizierung\r", 
+     "institution_l1": {
+      "@id": "Ludwig-Maximilians-Universit\u00e4t_M\u00fcnchen", 
+      "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+     }, 
+     "start_date": "2003", 
+     "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+     "activity": "Ludwigs-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "@id": 213, 
+     "@type": "Occupation"
+    }, 
+    "214": {
+     "function": "Doktorandin", 
+     "end_date": "2002", 
+     "institution_l1": {
+      "@id": "Ludwig-Maximilians-Universit\u00e4t_M\u00fcnchen", 
+      "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+     }, 
+     "start_date": "2000", 
+     "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+     "activity": " Ludwigs-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "@id": 214, 
+     "@type": "Occupation"
+    }, 
+    "215": {
+     "function": "Wissenschaftliche Mitarbeiterin", 
+     "end_date": "2003", 
+     "institution_l1": {
+      "@id": "Ludwig-Maximilians-Universit\u00e4t_M\u00fcnchen,_Institut_f\u00fcr_Soziologie", 
+      "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Institut f\u00fcr Soziologie"
+     }, 
+     "start_date": "2002", 
+     "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+     "activity": "Ludwigs-Maximilians-Universit\u00e4t M\u00fcnchen", 
+     "@id": 215, 
+     "@type": "Occupation"
+    }, 
+    "216": {
+     "function": "Wissenschaftliche und operative Leitung der Etappe 8 \u201aErwachsenenbildung\r\nund Lebenslanges Lernen\u2018", 
+     "end_date": "2014", 
+     "institution_l1": {}, 
+     "start_date": "2008", 
+     "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+     "activity": "Nationales Bildungspanels (NEPS)", 
+     "@id": 216, 
+     "@type": "Occupation"
+    }, 
+    "217": {
+     "function": "Professorin f\u00fcr Soziologie mit dem Schwerpunkt l\u00e4ngsschnittliche\r\nBildungsforschung a", 
+     "institution_l1": {}, 
+     "start_date": "2015", 
+     "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+     "activity": " LeibnizInstitut\nf\u00fcr Bildungsverl\u00e4ufe e.V. (LIfBi)", 
+     "@id": 217, 
+     "@type": "Occupation"
+    }, 
+    "218": {
+     "function": "Professorin f\u00fcr Soziologie mit dem Schwerpunkt l\u00e4ngsschnittliche\r\nBildungsforschung a", 
+     "institution_l1": {
+      "@id": "Otto-Friedrich-Universit\u00e4t_Bamberg_", 
+      "name": "Otto-Friedrich-Universit\u00e4t Bamberg "
+     }, 
+     "start_date": "2015", 
+     "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+     "activity": " Otto-Friedrich-Universit\u00e4t Bamberg", 
+     "@id": 218, 
+     "@type": "Occupation"
+    }, 
+    "219": {
+     "function": "Visiting Fellow", 
+     "institution_l1": {
+      "@id": "Yale_University", 
+      "location": "New Haven", 
+      "name": "Yale University"
+     }, 
+     "start_date": "2010", 
+     "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+     "activity": "Yale University, New Haven, Connecticut, USA", 
+     "@id": 219, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Kleinert,_Corinna", 
+   "@type": "Person", 
+   "name": "Kleinert, Corinna"
+  }, 
+  "Korflesch,_Harald_F.O._von_": {
+   "occupations": {
+    "240": {
+     "function": "Assistant Professor / Senior Lecturer / Project Manager", 
+     "end_date": "2003", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Kassel", 
+      "location": "Kassel", 
+      "name": "Universit\u00e4t Kassel"
+     }, 
+     "start_date": "1994", 
+     "source": "Universit\u00e4t Koblenz-Landau", 
+     "activity": "Universit\u00e4t Kassel ", 
+     "@id": 240, 
+     "@type": "Occupation"
+    }, 
+    "241": {
+     "function": "Education", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Kassel", 
+      "location": "Kassel", 
+      "name": "Universit\u00e4t Kassel"
+     }, 
+     "start_date": "2003", 
+     "source": "Universit\u00e4t Koblenz-Landau", 
+     "activity": "Universit\u00e4t Kassel ", 
+     "@id": 241, 
+     "@type": "Occupation"
+    }, 
+    "242": {
+     "function": "Locum Professor for Information Management", 
+     "end_date": "2007", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Koblenz-Landau_Campus_Koblenz", 
+      "location": "Koblenz", 
+      "name": "Universit\u00e4t Koblenz-Landau Campus Koblenz"
+     }, 
+     "start_date": "2003", 
+     "source": "Universit\u00e4t Koblenz-Landau", 
+     "activity": "Universit\u00e4t Koblenz-Landau", 
+     "@id": 242, 
+     "@type": "Occupation"
+    }, 
+    "243": {
+     "function": "Professor for the Management of Information, Innovation, Entrepreneurship and Organization", 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Koblenz-Landau_Campus_Koblenz", 
+      "location": "Koblenz", 
+      "name": "Universit\u00e4t Koblenz-Landau Campus Koblenz"
+     }, 
+     "start_date": "2007", 
+     "source": "Universit\u00e4t Koblenz-Landau", 
+     "activity": "Universit\u00e4t Koblenz-Landau", 
+     "@id": 243, 
+     "@type": "Occupation"
+    }, 
+    "244": {
+     "function": "Studium", 
+     "institution_l1": {
+      "@id": "Wirtschafts-_und_Sozialwissenschaftliche_Fakult\u00e4t", 
+      "location": "K\u00f6ln", 
+      "name": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t"
+     }, 
+     "start_date": "1987", 
+     "source": "Universit\u00e4t Koblenz-Landau", 
+     "activity": "Universit\u00e4t zu K\u00f6ln", 
+     "@id": 244, 
+     "@type": "Occupation"
+    }, 
+    "245": {
+     "function": "Research Associate and Assistant to the Owner of the Chair in Administrative and Academic Affaires", 
+     "end_date": "1993", 
+     "institution_l1": {
+      "@id": "Wirtschafts-_und_Sozialwissenschaftliche_Fakult\u00e4t", 
+      "location": "K\u00f6ln", 
+      "name": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t"
+     }, 
+     "start_date": "1988", 
+     "source": "Universit\u00e4t Koblenz-Landau", 
+     "activity": "Universit\u00e4t zu K\u00f6ln", 
+     "@id": 245, 
+     "@type": "Occupation"
+    }, 
+    "246": {
+     "function": "Education", 
+     "institution_l1": {
+      "@id": "Wirtschafts-_und_Sozialwissenschaftliche_Fakult\u00e4t", 
+      "location": "K\u00f6ln", 
+      "name": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t"
+     }, 
+     "start_date": "1993", 
+     "source": "Universit\u00e4t Koblenz-Landau", 
+     "activity": "Universit\u00e4t zu K\u00f6ln", 
+     "@id": 246, 
+     "@type": "Occupation"
+    }, 
+    "247": {
+     "function": "Senior Researcher and Project Manager", 
+     "end_date": "2003", 
+     "institution_l1": {
+      "@id": "Wirtschafts-_und_Sozialwissenschaftliche_Fakult\u00e4t", 
+      "location": "K\u00f6ln", 
+      "name": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t"
+     }, 
+     "start_date": "1998", 
+     "source": "Universit\u00e4t Koblenz-Landau", 
+     "activity": "Universit\u00e4t zu K\u00f6ln", 
+     "@id": 247, 
+     "@type": "Occupation"
+    }
+   }, 
+   "@id": "Korflesch,_Harald_F.O._von_", 
+   "@type": "Person", 
+   "name": "Korflesch, Harald F.O. von "
+  }
+ }
+}
